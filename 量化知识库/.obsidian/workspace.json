@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "e1d69aba57e2dd1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f448abf4532f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555fa77fd7d30e23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a7925cf2a72dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d1d8fc9327f082c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049a88252ee49e3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1f6b4ace2642ac16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "88fdfb16596a1a2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90134b9ed07e1c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "8726c0a9177ae529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0907ae4f5f43bac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLAUDE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CLAUDE 的反向链接列表"
+            }
+          },
+          {
+            "id": "2536246a99d8c8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLAUDE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CLAUDE 的出链列表"
+            }
+          },
+          {
+            "id": "183c58b6acc27605",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b0a0d3fbfe6a8ccd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1d0f9df630012e30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLAUDE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CLAUDE 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "555fa77fd7d30e23",
+  "lastOpenFiles": [
+    "01-Raw/代码/LLM_alpha/docs",
+    "02-Wiki/论文-A股投资者问答LLM事件研究.md",
+    "02-Wiki/因子投资.md",
+    "02-Wiki/Fama-MacBeth回归法.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_06_eid206_603659.SH.md",
+    "02-Wiki/累计异常收益.md",
+    "02-Wiki/多因子模型.md",
+    "02-Wiki/_index.md",
+    "CLAUDE.md",
+    "02-Wiki/_index.md.tmp.11460.2c224391ed11",
+    "02-Wiki/论文-A股投资者问答LLM事件研究.md.tmp.11460.0d4e5e0ac311",
+    "02-Wiki/LLM文本标注.md",
+    "02-Wiki/LLM文本标注.md.tmp.11460.8269b4235645",
+    "02-Wiki/投资者关注度.md",
+    "02-Wiki/投资者关注度.md.tmp.11460.2c09e57cee43",
+    "02-Wiki/累计异常收益.md.tmp.11460.e83b7904895a",
+    "02-Wiki/事件研究法.md",
+    "02-Wiki/事件研究法.md.tmp.11460.a882c08ee494",
+    "02-Wiki/Fama-MacBeth回归法.md.tmp.11460.1e64ef673dc9",
+    "02-Wiki/CAPM.md",
+    "02-Wiki/异象.md",
+    "02-Wiki/多因子模型.md.tmp.11460.cd9e64f9ba61",
+    "01-Raw/代码/LLM_alpha/data/processed/pilot/pilot_samples.parquet",
+    "01-Raw/代码/LLM_alpha/data/processed/pilot/pilot_llm_annotation_v4.parquet",
+    "01-Raw/代码/LLM_alpha/data/processed/pilot/pilot_annotation_guide.md",
+    "01-Raw/代码/LLM_alpha/reports/method_compare/method_caar_compare.png",
+    "01-Raw/代码/LLM_alpha/reports/feature_quality/correlation_heatmap.png",
+    "01-Raw/代码/LLM_alpha/reports/economic_significance/caar_strategy.png",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/summary.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/index.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_07_eid1066_000333.SZ.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_05_eid713_000408.SZ.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_04_eid621_300750.SZ.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_03_eid633_000408.SZ.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_02_eid1044_000100.SZ.md",
+    "01-Raw/代码/LLM_alpha/reports/case_studies/case_01_eid214_600436.SH.md",
+    "01-Raw/代码/LLM_alpha/reports/car_by_topic/caar_股权资本.png",
+    "01-Raw/代码/LLM_alpha/reports/car_by_topic/caar_战略规划.png",
+    "01-Raw/代码/LLM_alpha/reports/car_by_topic/caar_产品技术.png",
+    "01-Raw/代码/LLM_alpha/reports/car_by_topic/caar_业绩财务.png",
+    "01-Raw/代码/LLM_alpha/reports/research_narrative_v2.md",
+    "01-Raw/代码/LLM_alpha/reports/research_narrative_v1.md",
+    "01-Raw/代码/LLM_alpha/reports/paper_draft_v1.md",
+    "01-Raw/代码/LLM_alpha/data/processed/events_v1_monthly.png"
+  ]
+}
