@@ -11,10 +11,10 @@
             "id": "fd91ed91e2e3280e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -180,10 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0038bf18ffc30c5e",
+  "active": "fd91ed91e2e3280e",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/对话/可转债.md",
+    "量化知识库/02-Wiki/事件研究法.md",
+    "量化知识库/01-Raw/对话/未命名.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
+    "量化知识库/01-Raw/对话/可转债.md",
     "新建 文本文档.txt",
     "2026-05-03.md",
     "未命名.md",
