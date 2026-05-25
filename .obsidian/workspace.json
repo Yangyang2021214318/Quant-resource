@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7374097007c1d4ef",
+        "id": "ce472363acc8b3f3",
         "type": "tabs",
         "children": [
           {
-            "id": "fd91ed91e2e3280e",
+            "id": "f94420f880e0c26c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "量化知识库/01-Raw/对话/CTA策略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTA策略"
             }
           }
         ]
@@ -180,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd91ed91e2e3280e",
+  "active": "f94420f880e0c26c",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/02-Wiki/事件研究法.md",
-    "量化知识库/01-Raw/对话/未命名.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
     "新建 文本文档.txt",
