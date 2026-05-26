@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/对话/CTA策略.md",
+                "file": "量化知识库/01-Raw/想法/技术分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTA策略"
+              "title": "技术分析"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "f94420f880e0c26c",
   "lastOpenFiles": [
     "量化知识库/01-Raw/对话/CTA策略.md",
+    "量化知识库/01-Raw/想法/技术分析.md",
     "量化知识库/02-Wiki/事件研究法.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
