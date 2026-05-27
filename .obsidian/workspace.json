@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da00e702616b132b",
+        "id": "3a97fce044df83cd",
         "type": "tabs",
         "children": [
           {
-            "id": "b26a8f9addb93f84",
+            "id": "bf3b56ee3edec837",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b26a8f9addb93f84",
+  "active": "bf3b56ee3edec837",
   "lastOpenFiles": [
+    "量化知识库/02-Wiki/因子投资.md",
+    "量化知识库/01-Raw/想法/技术分析.md",
     "Pasted image 20260527160917.png",
     "量化知识库/01-Raw/想法/sharpe ratio.md",
-    "量化知识库/01-Raw/想法/技术分析.md",
     "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/02-Wiki/事件研究法.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
