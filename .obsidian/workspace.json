@@ -11,14 +11,12 @@
             "id": "bf3b56ee3edec837",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "量化知识库/01-Raw/Worldquant brain/技术分析.md",
-                "mode": "source",
-                "source": false
+                "file": "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
               },
-              "icon": "lucide-file",
-              "title": "技术分析"
+              "icon": "lucide-file-text",
+              "title": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)"
             }
           }
         ]
@@ -72,6 +70,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "89c741bc2815412a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
@@ -164,6 +172,16 @@
               "icon": "lucide-list",
               "title": "2026-05-03 的大纲"
             }
+          },
+          {
+            "id": "fe43da2f920b7bdb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -181,18 +199,20 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0038bf18ffc30c5e",
+  "active": "bf3b56ee3edec837",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain",
     "Pasted image 20260528135011.png",
     "Pasted image 20260528134956.png",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "Pasted image 20260527160917.png",
     "2026-05-03.md",
-    "量化知识库/01-Raw/Worldquant brain/技术分析.md",
     "量化知识库/02-Wiki/因子投资.md",
     "量化知识库/01-Raw/想法/sharpe ratio.md",
     "量化知识库/01-Raw/对话/CTA策略.md",
