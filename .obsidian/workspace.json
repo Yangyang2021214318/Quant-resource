@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/对话/可转债.md",
-                "mode": "source",
+                "file": "量化知识库/02-Wiki/_index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可转债"
+              "title": "_index"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,8 +186,9 @@
   },
   "active": "0ebc2c12a072b8bd",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "量化知识库/02-Wiki/多因子模型.md",
     "量化知识库/01-Raw/对话/可转债.md",
+    "新建 文本文档.txt",
     "2026-05-03.md",
     "未命名.md",
     "未命名 1.md",
