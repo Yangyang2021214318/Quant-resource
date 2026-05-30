@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a97fce044df83cd",
+        "id": "5dab02660a0023e6",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3b56ee3edec837",
+            "id": "6bc802699a4764f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
+                "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)"
+              "icon": "lucide-file",
+              "title": "Day3"
             }
           }
         ]
@@ -203,14 +205,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bf3b56ee3edec837",
+  "active": "6bc802699a4764f9",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
+    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/Worldquant brain/Day2.md",
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain",
     "Pasted image 20260528135011.png",
     "Pasted image 20260528134956.png",
-    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "Pasted image 20260527160917.png",
     "2026-05-03.md",
     "量化知识库/02-Wiki/因子投资.md",
