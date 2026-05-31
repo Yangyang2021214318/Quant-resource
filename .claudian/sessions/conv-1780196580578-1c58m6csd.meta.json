@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780196580578-1c58m6csd",
+  "providerId": "claude",
+  "title": "帮我总结一下day1的内容并给出一个合适的标题",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780196580583,
+  "updatedAt": 1780200118062,
+  "lastResponseAt": 1780200118062,
+  "sessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742",
+  "providerState": {
+    "providerSessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742"
+  },
+  "currentNote": "量化知识库/01-Raw/Worldquant brain/Day1.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 799,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextWindow": 200000,
+    "contextTokens": 27551,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}
