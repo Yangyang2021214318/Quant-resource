@@ -4,21 +4,20 @@
   "title": "帮我总结一下day1的内容并给出一个合适的标题",
   "titleGenerationStatus": "failed",
   "createdAt": 1780196580583,
-  "updatedAt": 1780202481971,
-  "lastResponseAt": 1780202481971,
+  "updatedAt": 1780203608212,
+  "lastResponseAt": 1780203608212,
   "sessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742",
   "providerState": {
     "providerSessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742"
   },
-  "currentNote": "量化知识库/01-Raw/Worldquant brain/WorldQuant Alpha构建入门：从信号生成到多空组合.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 744,
+    "inputTokens": 169,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28672,
+    "cacheReadInputTokens": 32768,
     "contextWindow": 200000,
-    "contextTokens": 29416,
-    "percentage": 15,
+    "contextTokens": 32937,
+    "percentage": 16,
     "contextWindowIsAuthoritative": true
   }
 }

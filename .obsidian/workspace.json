@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/Worldquant brain/WorldQuant Alpha构建入门：从信号生成到多空组合.md",
+                "file": "量化知识库/01-Raw/Worldquant brain/Day2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorldQuant Alpha构建入门：从信号生成到多空组合"
+              "title": "Day2"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-05-03.md",
+                "file": "量化知识库/01-Raw/Worldquant brain/Day2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-03 的大纲"
+              "title": "Day2 的大纲"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           },
           {
-            "id": "e20167c7c70fde4b",
+            "id": "b7d3ef5c6e9116d3",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1035.5
+    "width": 897.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +218,12 @@
   },
   "active": "6bc802699a4764f9",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/Worldquant brain/WorldQuant Alpha构建入门：从信号生成到多空组合.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.6dce7db0cfa7",
+    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/文章/2026-05-31.md",
     "量化知识库/01-Raw/文章/未命名.md",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md",
     "Pasted image 20260528135011.png",
     "Pasted image 20260527160917.png",
     "量化知识库/CLAUDE.md",
