@@ -4,20 +4,20 @@
   "title": "帮我总结一下day1的内容并给出一个合适的标题",
   "titleGenerationStatus": "failed",
   "createdAt": 1780196580583,
-  "updatedAt": 1780205718283,
-  "lastResponseAt": 1780205718283,
+  "updatedAt": 1780206830141,
+  "lastResponseAt": 1780206830141,
   "sessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742",
   "providerState": {
     "providerSessionId": "cd8de324-8e0c-4218-a2b6-cb9acd15f742"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 1145,
+    "inputTokens": 89,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 47744,
+    "cacheReadInputTokens": 55296,
     "contextWindow": 200000,
-    "contextTokens": 48889,
-    "percentage": 24,
+    "contextTokens": 55385,
+    "percentage": 28,
     "contextWindowIsAuthoritative": true
   }
 }
