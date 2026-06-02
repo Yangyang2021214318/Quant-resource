@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
+                "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Join WorldQuant BRAIN 1"
+              "title": "Day3"
             }
           }
         ]
@@ -216,10 +216,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ebbba1fabde83838",
+  "active": "6bc802699a4764f9",
   "lastOpenFiles": [
-    "01-Raw/文章/-Join WorldQuant BRAIN.md",
     "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md.tmp.3856.43635a829276",
+    "01-Raw/文章/-Join WorldQuant BRAIN.md",
     "量化知识库/01-Raw/文章/2026-05-31.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "01-Raw/文章",
@@ -235,7 +236,6 @@
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.af12bd38eead",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.9bec7956a77b",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.6dce7db0cfa7",
-    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/文章/未命名.md",
     "Attachments/Pasted image 20260528135011.png",
     "Attachments/Pasted image 20260527160917.png",
@@ -256,7 +256,6 @@
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
     "未命名.md",
-    "未命名 1.md",
-    "欢迎.md"
+    "未命名 1.md"
   ]
 }
