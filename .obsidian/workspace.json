@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a97fce044df83cd",
+        "id": "5dab02660a0023e6",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3b56ee3edec837",
+            "id": "6bc802699a4764f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
+                "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)"
+              "icon": "lucide-file",
+              "title": "Day3"
             }
           }
         ]
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-05-03.md",
+                "file": "量化知识库/01-Raw/Worldquant brain/Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-03 的反向链接列表"
+              "title": "Day1 的反向链接列表"
             }
           },
           {
@@ -164,17 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-05-03.md",
+                "file": "量化知识库/02-Wiki/条件逻辑与trade_when.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-03 的大纲"
+              "title": "条件逻辑与trade_when 的大纲"
             }
           },
           {
-            "id": "fe43da2f920b7bdb",
+            "id": "a2a5cd4701ebabdf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -182,13 +184,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ebbba1fabde83838",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 968.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,29 +212,50 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "bf3b56ee3edec837",
+  "active": "ebbba1fabde83838",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260601153723.png",
+    "Attachments",
+    "量化知识库/02-Wiki/条件逻辑与trade_when.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.f45d9709d595",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.af0e9c1ba953",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.57fe05d20d73",
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
-    "量化知识库/01-Raw/Worldquant brain",
-    "Pasted image 20260528135011.png",
-    "Pasted image 20260528134956.png",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.5341bb46f693",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.af12bd38eead",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.9bec7956a77b",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.6dce7db0cfa7",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
-    "Pasted image 20260527160917.png",
+    "量化知识库/01-Raw/文章/2026-05-31.md",
+    "量化知识库/01-Raw/文章/未命名.md",
+    "Attachments/Pasted image 20260528135011.png",
+    "Attachments/Pasted image 20260527160917.png",
+    "量化知识库/CLAUDE.md",
+    "量化知识库/02-Wiki/LLM文本标注.md",
+    "量化知识库/02-Wiki/事件研究法.md",
+    "量化知识库/02-Wiki/投资者关注度.md",
+    "量化知识库/02-Wiki/异象.md",
+    "量化知识库/02-Wiki/论文-A股投资者问答LLM事件研究.md",
+    "量化知识库/02-Wiki/累计异常收益.md",
+    "量化知识库/02-Wiki/多因子模型.md",
+    "量化知识库/02-Wiki/_index.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
+    "量化知识库/01-Raw/Worldquant brain",
+    "Pasted image 20260528134956.png",
     "2026-05-03.md",
     "量化知识库/02-Wiki/因子投资.md",
     "量化知识库/01-Raw/想法/sharpe ratio.md",
     "量化知识库/01-Raw/对话/CTA策略.md",
-    "量化知识库/02-Wiki/事件研究法.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
-    "新建 文本文档.txt",
     "未命名.md",
     "未命名 1.md",
-    "未命名.base",
     "欢迎.md"
   ]
 }
