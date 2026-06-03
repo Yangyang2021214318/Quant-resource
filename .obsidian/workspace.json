@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -220,11 +219,13 @@
   },
   "active": "6bc802699a4764f9",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/代码",
+    "量化知识库/01-Raw/未命名.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md.tmp.3856.43635a829276",
     "01-Raw/文章/-Join WorldQuant BRAIN.md",
     "量化知识库/01-Raw/文章/2026-05-31.md",
-    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "01-Raw/文章",
     "Attachments/Pasted image 20260601153723.png",
     "Attachments",
@@ -257,7 +258,6 @@
     "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
-    "未命名.md",
-    "未命名 1.md"
+    "未命名.md"
   ]
 }
