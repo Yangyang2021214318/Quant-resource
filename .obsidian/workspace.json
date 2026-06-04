@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 968.5
+    "width": 968.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +234,15 @@
   },
   "active": "04682781265f3814",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "conflict-files-obsidian-git.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md",
     "01-Raw/文章/-Join WorldQuant BRAIN.md",
     "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
     "01-Raw/Worldquant brain/-Join WorldQuant BRAIN.md",
     "01-Raw/文章",
     "01-Raw/Worldquant brain",
     "01-Raw",
-    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "Attachments/Pasted image 20260601153723.png",
     "Attachments",
     "量化知识库/02-Wiki/条件逻辑与trade_when.md",
