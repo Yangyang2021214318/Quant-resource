@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Day2"
             }
+          },
+          {
+            "id": "04682781265f3814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +231,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6bc802699a4764f9",
+  "active": "04682781265f3814",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "conflict-files-obsidian-git.md",
+    "01-Raw/文章/-Join WorldQuant BRAIN.md",
+    "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
+    "01-Raw/Worldquant brain/-Join WorldQuant BRAIN.md",
+    "01-Raw/文章",
+    "01-Raw/Worldquant brain",
+    "01-Raw",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "Attachments/Pasted image 20260601153723.png",
     "Attachments",
     "量化知识库/02-Wiki/条件逻辑与trade_when.md",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.f45d9709d595",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.af0e9c1ba953",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.57fe05d20d73",
@@ -230,8 +252,6 @@
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.5341bb46f693",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.af12bd38eead",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.9bec7956a77b",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.6dce7db0cfa7",
-    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/文章/2026-05-31.md",
     "量化知识库/01-Raw/文章/未命名.md",
     "Attachments/Pasted image 20260528135011.png",
@@ -245,7 +265,6 @@
     "量化知识库/02-Wiki/累计异常收益.md",
     "量化知识库/02-Wiki/多因子模型.md",
     "量化知识库/02-Wiki/_index.md",
-    "量化知识库/01-Raw/Worldquant brain",
     "Pasted image 20260528134956.png",
     "2026-05-03.md",
     "量化知识库/02-Wiki/因子投资.md",
@@ -253,8 +272,6 @@
     "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/01-Raw/想法/Hyperlink.md",
     "量化知识库/01-Raw/对话/可转债.md",
-    "未命名.md",
-    "未命名 1.md",
-    "欢迎.md"
+    "未命名.md"
   ]
 }
