@@ -196,7 +196,7 @@ CLV 取值区间 **[-1, +1]**：
 
 **与 VWAP/Close 比较的区别**
 
-CLV 和 [[Day1|Day1 中 Close vs VWAP]] 都用于解读收盘时刻的市场心理，但角度不同：
+CLV 和 [[量化知识库/01-Raw/Worldquant brain/Day1|Day1 中 Close vs VWAP]] 都用于解读收盘时刻的市场心理，但角度不同：
 
 | | CLV | Close vs VWAP |
 |------|-----|------|
@@ -272,7 +272,7 @@ zscore(clv) = −2  →  −zscore = +2  →  日内跌过头 → 做多
 
 **第三层：`rank(volume)` —— 成交量加权的置信度**
 
-`rank()` 把当日所有股票的成交量映射到 0~1 区间（来自 [[Day1|Day1 变换算子]]）：
+`rank()` 把当日所有股票的成交量映射到 0~1 区间（来自 [[量化知识库/01-Raw/Worldquant brain/Day1|Day1 变换算子]]）：
 
 - 成交量排名最高 → rank ≈ 1 → 信号放大到几乎是原始值
 - 成交量排名最低 → rank ≈ 0 → 信号被大幅压缩
