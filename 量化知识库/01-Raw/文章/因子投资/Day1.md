@@ -98,3 +98,30 @@ Cov(εt) 本身就定义为 Σε(N个特异性扰动项的协方差矩阵)。把
 
 把这三块拼起来反推出 Σ,你绕开了"T≥N"这个硬约束,只需要满足"T≥K"这个低得多的门槛。  
 
+## ETF（交易型开放式指数基金） 
+本质上是在交易所上市交易的基金，买入一只ETF，就等于买入了一篮子资产，能分散投资单一股票或债券的风险。
+#### 按投资标的分类
+
+这是最核心的分类方式，决定了ETF底层资产是什么[](https://finance.eastmoney.com/a/202411213245860823.html)。
+
+|类型|投资标的与特点|常见产品举例|
+|---|---|---|
+|**股票型ETF**|跟踪一篮子股票，是数量最多、应用最广的类型[](https://www.cls.cn/detail/2245274)。旨在让投资者便捷地投资于某个市场或赛道。|**宽基ETF**（如沪深300ETF、标普500ETF）、**行业主题ETF**（如芯片ETF、新能源车ETF）[](https://www.cls.cn/detail/2245274)[](https://finance.eastmoney.com/a/202411213245860823.html)。|
+|**债券型ETF**|主要投资于国债、金融债、信用债等固定收益资产[](https://www.cls.cn/detail/2245274)。通常与股市相关性低，是资产配置中的“稳定器”[](https://www.cls.cn/detail/2245274)。|国债ETF、地方债ETF[](http://www.investor.org.cn/learning_center/gmjytx/bk/kj/jyxl_3783/202311/P020231116583908428208.pdf#3#1)。|
+|**商品型ETF**|跟踪黄金、原油等大宗商品价格[](https://www.cls.cn/detail/2245274)。尤其是黄金ETF，常被视为对抗通胀和应对市场动荡的“盾牌”[](https://www.cls.cn/detail/2245274)[](https://finance.eastmoney.com/a/202411213245860823.html)。|黄金ETF[](http://www.investor.org.cn/learning_center/gmjytx/bk/kj/jyxl_3783/202311/P020231116583908428208.pdf#3#1)。|
+|**货币市场型ETF**|投资于银行存款、同业存单等短期货币工具[](https://www.cls.cn/detail/2245274)[](https://finance.eastmoney.com/a/202411213245860823.html)。注重本金安全和流动性，是现金管理的“好帮手”[](https://www.cls.cn/detail/2245274)。|货币ETF[](http://www.investor.org.cn/learning_center/gmjytx/bk/kj/jyxl_3783/202311/P020231116583908428208.pdf#3#1)。|
+
+#### 按投资策略与运作方式分类
+
+- **被动型与主动型**：大部分ETF是被动型，旨在紧密跟踪特定指数表现。而主动型ETF则允许基金经理进行有限度的主动管理，以追求超越基准指数的收益，例如指数增强型ETF[](https://www.cls.cn/detail/2245274)[](https://finance.eastmoney.com/a/202411213245860823.html)[](http://www.poems.com.hk/zh-cn/product-and-service/global-securities/etf/#advantage)。
+    
+- **实物资产与合成ETF**：实物资产ETF是直接买入指数成分股等底层资产；而合成ETF不直接买入底层资产，而是通过金融衍生工具（如互换合约）来复制指数表现，需要注意其交易对手风险[](https://www.hkex.com.hk/zh-HK/Global/Exchange/FAQ/Products/Securities/ETP?sc_lang=zh-HK)。
+    
+
+#### 按投资市场范围分类
+
+- **境内ETF**：投资于国内资本市场的证券[](https://www.cls.cn/detail/2245274)[](https://finance.eastmoney.com/a/202411213245860823.html)。
+    
+- **跨境ETF**：跟踪境外市场指数，如纳斯达克100ETF、恒生指数ETF（如盈富基金 [2800.HK](https://2800.hk/)），为投资者提供了便捷的海外资产配置渠道[](https://www.cls.cn/detail/2245274)[](http://www.poems.com.hk/zh-cn/product-and-service/global-securities/etf/#advantage)[](http://www.investor.org.cn/learning_center/gmjytx/bk/kj/jyxl_3783/202311/P020231116583908428208.pdf#3#1)  
+
+

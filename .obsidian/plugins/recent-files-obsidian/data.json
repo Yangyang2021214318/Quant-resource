@@ -5,8 +5,20 @@
       "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
     },
     {
+      "basename": "Day1",
+      "path": "量化知识库/01-Raw/Worldquant brain/Day1.md"
+    },
+    {
       "basename": "Day3",
       "path": "量化知识库/01-Raw/Worldquant brain/Day3.md"
+    },
+    {
+      "basename": "CTA策略",
+      "path": "量化知识库/01-Raw/对话/CTA策略.md"
+    },
+    {
+      "basename": "可转债",
+      "path": "量化知识库/01-Raw/对话/可转债.md"
     },
     {
       "basename": "Pasted image 20260601153723",
@@ -35,10 +47,6 @@
     {
       "basename": "条件逻辑与trade_when",
       "path": "量化知识库/02-Wiki/条件逻辑与trade_when.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day1.md"
     },
     {
       "basename": "CLAUDE",
