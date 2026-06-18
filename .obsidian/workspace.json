@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(市)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6bc802699a4764f9",
+  "active": "86c0f5099c311106",
   "lastOpenFiles": [
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",

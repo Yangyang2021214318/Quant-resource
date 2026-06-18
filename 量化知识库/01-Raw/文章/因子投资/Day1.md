@@ -125,3 +125,16 @@ Cov(εt) 本身就定义为 Σε(N个特异性扰动项的协方差矩阵)。把
 - **跨境ETF**：跟踪境外市场指数，如纳斯达克100ETF、恒生指数ETF（如盈富基金 [2800.HK](https://2800.hk/)），为投资者提供了便捷的海外资产配置渠道[](https://www.cls.cn/detail/2245274)[](http://www.poems.com.hk/zh-cn/product-and-service/global-securities/etf/#advantage)[](http://www.investor.org.cn/learning_center/gmjytx/bk/kj/jyxl_3783/202311/P020231116583908428208.pdf#3#1)  
 
 
+## 账面市值比（Book-to-Market Ratio，B/M）  
+**核心公式**：账面市值比 = 公司账面价值 ÷ 公司市场价值[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)
+- **账面价值**：指的是公司资产负债表上的股东权益，即归属于股东的净资产[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)[](https://longportapp.cn/zh-HK/learn/pb-256)。它是一个基于会计准则计算的"历史成本"数据[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)。
+    
+- **市场价值**：即公司的市值，由股价乘以总股数计算得出，反映了市场对公司未来价值的预期[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)。
+通俗地说，这个比率就在问：**公司的账面净资产，相对于它的股票市场价值，到底有多大？**  
+**核心意义：价值股的"标签"  
+账面市值比是区分"价值股"与"成长股"最核心的指标之一。
+- **高账面市值比 → 价值股**：当比值较高时，通常意味着公司的市场定价相对于其账面净资产偏低，可能被低估，是价值投资者的关注对象[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)[](https://longportapp.cn/zh-CN/learn/high-minus-low--100089)。
+    
+- **低账面市值比 → 成长股**：当比值较低时，意味着市场给予了公司较高的估值溢价，反映了投资者对其未来增长抱有较高期望[](https://longportapp.cn/zh-HK/learn/book-to-market-ratio-101740)[](https://longportapp.cn/zh-CN/learn/high-minus-low--100089)。
+这个指标也是著名金融学家尤金·法玛（Eugene Fama）和肯尼斯·法兰奇（Kenneth French）提出的**三因子模型中的核心因子（HML，即高减低因子）**[](https://longportapp.cn/zh-CN/learn/high-minus-low--100089)[](https://longbridge.com/zh-HK/learn/high-minus-low--100089)。他们发现，长期来看，高账面市值比（价值股）的投资组合表现往往优于低账面市值比（成长股）的组合，这种现象被称为"价值溢价"[](https://longportapp.cn/zh-CN/learn/high-minus-low--100089)[](https://longbridge.com/zh-HK/learn/high-minus-low--100089)  
+
