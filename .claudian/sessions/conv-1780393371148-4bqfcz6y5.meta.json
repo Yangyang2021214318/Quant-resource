@@ -1,16 +1,15 @@
 {
   "id": "conv-1780393371148-4bqfcz6y5",
   "providerId": "claude",
-  "title": "Explain content in Chinese for Day3 notes",
-  "titleGenerationStatus": "success",
+  "title": "你好",
+  "titleGenerationStatus": "pending",
   "createdAt": 1780393371152,
-  "updatedAt": 1780393528468,
-  "lastResponseAt": 1780393528468,
+  "updatedAt": 1781750733863,
+  "lastResponseAt": 1781750596023,
   "sessionId": "22e7c0a0-946e-44ba-9163-6151ed3678a5",
   "providerState": {
     "providerSessionId": "22e7c0a0-946e-44ba-9163-6151ed3678a5"
   },
-  "currentNote": "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 1315,

@@ -11,12 +11,14 @@
             "id": "6bc802699a4764f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
+                "file": "量化知识库/01-Raw/文章/Day1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)"
+              "icon": "lucide-file",
+              "title": "Day1"
             }
           }
         ]
@@ -86,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -183,23 +184,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "ebbba1fabde83838",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 780.5
+    "width": 780.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +209,8 @@
   },
   "active": "6bc802699a4764f9",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/文章/Day1.md",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
+    "量化知识库/01-Raw/文章/Day1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "Attachments/Pasted image 20260601153723.png",
     "Attachments/Pasted image 20260528135011.png",
