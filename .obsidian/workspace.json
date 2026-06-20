@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(市)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,14 +185,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ea8250a71c54bb52",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 780.5,
-    "collapsed": true
+    "width": 780.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +217,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "86c0f5099c311106",
+  "active": "ea8250a71c54bb52",
   "lastOpenFiles": [
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
