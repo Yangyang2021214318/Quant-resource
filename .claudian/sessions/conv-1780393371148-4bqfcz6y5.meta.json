@@ -1,15 +1,16 @@
 {
   "id": "conv-1780393371148-4bqfcz6y5",
   "providerId": "claude",
-  "title": "你好",
-  "titleGenerationStatus": "pending",
+  "title": "Greet in Chinese",
+  "titleGenerationStatus": "success",
   "createdAt": 1780393371152,
-  "updatedAt": 1781775240834,
-  "lastResponseAt": 1781775240834,
+  "updatedAt": 1781931209716,
+  "lastResponseAt": 1781931198263,
   "sessionId": "22e7c0a0-946e-44ba-9163-6151ed3678a5",
   "providerState": {
     "providerSessionId": "22e7c0a0-946e-44ba-9163-6151ed3678a5"
   },
+  "currentNote": "量化知识库/01-Raw/文章/因子投资/Day1.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 1315,
