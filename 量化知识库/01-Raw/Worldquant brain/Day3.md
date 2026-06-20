@@ -241,7 +241,7 @@ group_neutralize(alpha, bucket(rank(market_cap), range="0, 1, 0.1"))
 
 ### trade_when —— 条件持仓
 
-[[Day2#trade_when|Day2 中已详细讲解]]，此处做算子级补充：
+[[量化知识库/01-Raw/Worldquant brain/Day2#trade_when|Day2 中已详细讲解]]，此处做算子级补充：
 
 ```
 trade_when(entry, Alpha, exit)
