@@ -185,19 +185,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "ea8250a71c54bb52",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,11 +204,29 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ea8250a71c54bb52",
+  "active": "a2a5cd4701ebabdf",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "量化知识库/01-Raw/对话/CTA策略.md",
@@ -244,22 +252,6 @@
     "量化知识库/02-Wiki/条件逻辑与trade_when.md",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.f45d9709d595",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.af0e9c1ba953",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.57fe05d20d73",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.10708.5341bb46f693",
-    "量化知识库/01-Raw/文章/2026-05-31.md",
-    "量化知识库/CLAUDE.md",
-    "量化知识库/02-Wiki/LLM文本标注.md",
-    "量化知识库/02-Wiki/事件研究法.md",
-    "量化知识库/02-Wiki/投资者关注度.md",
-    "量化知识库/02-Wiki/异象.md",
-    "量化知识库/02-Wiki/论文-A股投资者问答LLM事件研究.md",
-    "量化知识库/02-Wiki/累计异常收益.md",
-    "量化知识库/02-Wiki/多因子模型.md",
-    "量化知识库/02-Wiki/_index.md",
-    "Pasted image 20260528134956.png",
-    "2026-05-03.md",
-    "量化知识库/02-Wiki/因子投资.md",
-    "量化知识库/01-Raw/想法/sharpe ratio.md",
-    "量化知识库/01-Raw/想法/Hyperlink.md"
+    "Pasted image 20260528134956.png"
   ]
 }
