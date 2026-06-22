@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
+                "file": "量化知识库/01-Raw/文章/因子投资/Day1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day3"
+              "title": "Day1"
             }
           }
         ]
@@ -191,8 +191,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -205,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -213,12 +214,12 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "realclaudian:Open Claudian": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "0038bf18ffc30c5e",
+  "active": "6bc802699a4764f9",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "量化知识库/01-Raw/文章/因子投资/Day2.md",
     "量化知识库/01-Raw/文章/因子投资/Day1.md",
@@ -249,7 +250,6 @@
     "Attachments/Pasted image 20260618132820.png",
     "量化知识库/01-Raw/代码",
     "量化知识库/01-Raw/未命名.md",
-    "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md.tmp.3856.43635a829276",
     "01-Raw/文章/-Join WorldQuant BRAIN.md",
@@ -260,7 +260,6 @@
     "量化知识库/02-Wiki/条件逻辑与trade_when.md",
     "量化知识库/01-Raw/Worldquant brain/Day2.md",
     "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.f45d9709d595",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.af0e9c1ba953",
     "Attachments/Pasted image 20260528135011.png",
     "Attachments/Pasted image 20260527160917.png",
     "Pasted image 20260528134956.png"
