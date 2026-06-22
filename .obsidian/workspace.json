@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/Day2.md",
+                "file": "量化知识库/01-Raw/Worldquant brain/Day3.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2"
-            }
-          },
-          {
-            "id": "fa3f6bdfdd6813ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/Day2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day2"
+              "title": "Day3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -201,13 +186,13 @@
             }
           },
           {
-            "id": "5b6d7e920c4648a8",
+            "id": "ebbba1fabde83838",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "claudian-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
@@ -215,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 889.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,55 +214,55 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "realclaudian:Open Claudian": false,
-      "copilot:Open Copilot Chat": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "fa3f6bdfdd6813ac",
+  "active": "0038bf18ffc30c5e",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260620164239.png",
-    "量化知识库/01-Raw/文章/因子投资/Day1.md",
-    "Attachments/Pasted image 20260620144218.png",
-    "量化知识库/01-Raw/文章/因子投资/Day2.md",
-    "量化知识库/02-Wiki/LLM文本标注.md",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
-    "copilot/copilot-conversations/中文问候@20260620_131044.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
+    "量化知识库/01-Raw/文章/因子投资/Day2.md",
+    "量化知识库/01-Raw/文章/因子投资/Day1.md",
+    "量化知识库/01-Raw/文章/因子投资",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/中文问候@20260620_131044.md",
     "copilot/copilot-custom-prompts",
+    "copilot/copilot-conversations",
     "copilot",
-    "量化知识库/01-Raw/Worldquant brain/Day1.md",
-    "量化知识库/01-Raw/Worldquant brain/Day3.md",
-    "量化知识库/01-Raw/对话/CTA策略.md",
-    "量化知识库/01-Raw/对话/可转债.md",
+    "Attachments/Pasted image 20260620164239.png",
+    "Attachments/Pasted image 20260620144218.png",
     "Attachments/Pasted image 20260618140456.png",
     "Attachments/Pasted image 20260618134953.png",
-    "量化知识库/01-Raw/文章/因子投资",
     "Attachments/Pasted image 20260618132820.png",
-    "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
+    "量化知识库/01-Raw/代码",
+    "量化知识库/01-Raw/未命名.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md",
+    "01-Raw/文章/-Join WorldQuant BRAIN 1.md",
+    "量化知识库/01-Raw/Worldquant brain/Day3.md.tmp.3856.43635a829276",
+    "01-Raw/文章/-Join WorldQuant BRAIN.md",
+    "量化知识库/01-Raw/文章/2026-05-31.md",
+    "01-Raw/文章",
     "Attachments/Pasted image 20260601153723.png",
+    "Attachments",
+    "量化知识库/02-Wiki/条件逻辑与trade_when.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.f45d9709d595",
+    "量化知识库/01-Raw/Worldquant brain/Day2.md.tmp.14860.af0e9c1ba953",
     "Attachments/Pasted image 20260528135011.png",
     "Attachments/Pasted image 20260527160917.png",
-    "量化知识库/01-Raw/Worldquant brain/Day2.md",
-    "conflict-files-obsidian-git.md",
-    "01-Raw/文章",
-    "01-Raw/Worldquant brain",
-    "01-Raw",
-    "Attachments",
     "Pasted image 20260528134956.png"
   ]
 }
