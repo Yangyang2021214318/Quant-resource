@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "fa3f6bdfdd6813ac",
+            "id": "ca3c5f1b7e061cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/Day2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -215,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 889.5
+    "width": 746.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,16 +232,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fa3f6bdfdd6813ac",
+  "active": "ca3c5f1b7e061cbf",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/文章/因子投资/Day2.md",
+    "conflict-files-obsidian-git.md",
+    "copilot/copilot-conversations/OpenRouter_API_Key_Missing@20260623_095641.md",
+    "copilot/copilot-conversations",
+    "copilot",
     "Attachments/Pasted image 20260620164239.png",
     "量化知识库/01-Raw/文章/因子投资/Day1.md",
     "Attachments/Pasted image 20260620144218.png",
-    "量化知识库/01-Raw/文章/因子投资/Day2.md",
     "量化知识库/02-Wiki/LLM文本标注.md",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "copilot/copilot-conversations/中文问候@20260620_131044.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -257,7 +261,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
     "量化知识库/01-Raw/Worldquant brain/Day1.md",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
     "量化知识库/01-Raw/对话/CTA策略.md",
@@ -271,7 +274,6 @@
     "Attachments/Pasted image 20260528135011.png",
     "Attachments/Pasted image 20260527160917.png",
     "量化知识库/01-Raw/Worldquant brain/Day2.md",
-    "conflict-files-obsidian-git.md",
     "01-Raw/文章",
     "01-Raw/Worldquant brain",
     "01-Raw",
