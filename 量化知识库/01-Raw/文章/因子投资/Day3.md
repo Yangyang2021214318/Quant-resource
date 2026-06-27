@@ -16,7 +16,7 @@ E[εε'|X] = σ²I
 
 ε 是 T×1 的残差向量，εε' 是它和自己的转置相乘，得到一个 T×T 的矩阵：
 
-εε′=[ε1ε2⋮εT][ε1ε2⋯εT]=[ε12ε1ε2⋯ε1εTε2ε1ε22⋯ε2εT⋮⋱⋮εTε1εTε2⋯εT2]\varepsilon\varepsilon' = \begin{bmatrix}\varepsilon_1\\\varepsilon_2\\\vdots\\\varepsilon_T\end{bmatrix}\begin{bmatrix}\varepsilon_1&\varepsilon_2&\cdots&\varepsilon_T\end{bmatrix} = \begin{bmatrix}\varepsilon_1^2 & \varepsilon_1\varepsilon_2 & \cdots & \varepsilon_1\varepsilon_T\\\varepsilon_2\varepsilon_1 & \varepsilon_2^2 & \cdots & \varepsilon_2\varepsilon_T\\\vdots & & \ddots & \vdots\\\varepsilon_T\varepsilon_1 & \varepsilon_T\varepsilon_2 & \cdots & \varepsilon_T^2\end{bmatrix}εε′=​ε1​ε2​⋮εT​​​[ε1​​ε2​​⋯​εT​​]=​ε12​ε2​ε1​⋮εT​ε1​​ε1​ε2​ε22​εT​ε2​​⋯⋯⋱⋯​ε1​εT​ε2​εT​⋮εT2​​​
+![[Pasted image 20260627122039.png]]
 
 对这个矩阵取期望，每个元素各自取期望：
 
@@ -37,4 +37,6 @@ E[εε'|X] = σ²I
 
 **无自相关**：非对角线全是0，意味着任意两期的残差之间协方差为零，互不相关——今天的误差和明天的误差没有任何关系。
 
-**一旦这两个假设任一被打破，等号右边就不再是σ²I，而是更一般的Σ=σ²Υ，这正是广义线性回归要处理的问题。**
+**一旦这两个假设任一被打破，等号右边就不再是σ²I，而是更一般的Σ=σ²Υ，这正是广义线性回归要处理的问题。**  
+
+## 正定矩阵  
