@@ -319,7 +319,6 @@ $$\text{var}(\bar{u}) = \frac{1}{T}\left[\text{var}(u_t) + \sum_{j=1}^{T}\frac{T
 
 $\text{cov}(u_t, u_{t-j}) + \text{cov}(u_t, u_{t+j})$：向前和向后各 $j$ 期的协方差（平稳序列下两者相等，合并为2倍）。
 
-
 > 自相关 = 各期观测"不独立"，等效样本量减少，所以方差更大。
 
 ---
