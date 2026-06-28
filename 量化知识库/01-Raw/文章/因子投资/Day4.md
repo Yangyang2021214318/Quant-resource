@@ -331,9 +331,6 @@ $$\text{var}(\bar{u}) \to \frac{1}{T}\sum_{j=-\infty}^{+\infty} \text{cov}(u_t, 
 
 当 $T \to \infty$ 时，权重 $\frac{T-j}{T} \to 1$，式（2.103）化简为对所有滞后阶数求和，上下限扩展到 $\pm\infty$。
 
-### 直觉
-
-这个无穷求和 $\sum_{j=-\infty}^{+\infty} \text{cov}(u_t, u_{t-j})$ 就是序列 $u_t$ 的**谱密度在零频率处的值**，捕捉了所有滞后期的自相关信息。
 
 ---
 
