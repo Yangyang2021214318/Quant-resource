@@ -171,5 +171,115 @@ $$\overline{|t|} = \frac{1}{N}\sum_{i=1}^{N}|t_i|$$
 **|tᵢ|的均值**衡量定价误差在统计上的显著程度——如果这个均值远大于2，说明不是个别资产偶然显著，而是大量资产系统性地有定价误差。
 ![[Pasted image 20260628132355.png]]
 ---
+## 3. 正交化过程（Gram-Schmidt） 
 
+## 背景问题
+
+模型：$y = ax_0 + bx_1 + \varepsilon$，其中 $x_0 = \mathbf{1} = [1,1,\cdots,1]'$（截距项），$x_1 = [x_1, x_2, \cdots, x_n]'$。
+
+**问题**：$x_0$ 和 $x_1$ 不正交，不能直接用简单投影公式求系数。
+
+---
+
+## 第一步：构造正交向量 $z_1$
+
+### 目标
+
+把 $x_1$ 中"与 $x_0$ 平行的部分"去掉，留下与 $x_0$ 垂直的部分。
+
+### 公式（式2.90）
+
+$$z_1 = x_1 - \frac{\langle z_0, x_1 \rangle}{\langle z_0, z_0 \rangle} z_0$$
+
+令 $z_0 = x_0 = \mathbf{1}$，代入：
+
+$$\frac{\langle \mathbf{1}, x_1 \rangle}{\langle \mathbf{1}, \mathbf{1} \rangle} = \frac{\sum_{i=1}^n x_i}{n} = \bar{x}$$
+
+所以：
+
+$$z_1 = x_1 - \bar{x} \cdot \mathbf{1}$$
+
+即 $z_1$ 的每个分量是 $x_i - \bar{x}$，**就是 $x_1$ 的去均值版本**。
+
+### 为什么这样做能保证正交？
+
+验证 $\langle z_0, z_1 \rangle = 0$：
+
+$$\langle \mathbf{1}, x_1 - \bar{x}\mathbf{1} \rangle = \sum_{i=1}^n (x_i - \bar{x}) = 0 \checkmark$$
+
+---
+
+## 第二步：用 $z_1$ 求系数 $\hat{b}$（式2.91）
+
+现在 $z_0 \perp z_1$，可以直接用投影公式：
+
+$$\hat{b} = \frac{\langle z_1, y \rangle}{\langle z_1, z_1 \rangle}$$
+
+展开计算：
+
+$$\frac{\langle x_1 - \bar{x}\mathbf{1},\ y \rangle}{\langle x_1 - \bar{x}\mathbf{1},\ x_1 - \bar{x}\mathbf{1} \rangle} = \frac{\sum x_i y_i - \bar{x}\sum y_i}{\sum(x_i - \bar{x})^2}$$
+
+化简分子分母：
+
+$$= \frac{\sum x_i y_i - \frac{1}{n}\sum x_i \sum y_i}{\sum x_i^2 - \frac{1}{n}\left(\sum x_i\right)^2} = \hat{b}$$
+
+这正好等于式（2.89）的OLS公式！✓
+
+---
+
+## 第三步：求截距 $\hat{a}$
+
+得到 $\hat{b}$ 之后，$\hat{a}$ 由 $z_0$ 方向的投影给出：
+
+$$\hat{a} = \frac{\langle z_0, y \rangle}{\langle z_0, z_0 \rangle} - \hat{b} \cdot \bar{x} = \bar{y} - \hat{b}\bar{x}$$
+
+即式（2.89）的第一个公式。
+
+---
+
+## 推广：多元情形的三步算法（式2.92-2.93）
+
+### 第一步：初始化
+
+选一个解释变量（通常是截距项 $\mathbf{1}$）作为 $z_0$。
+
+### 第二步：逐个正交化
+
+对第 $k$ 个变量 $x_k$，从它里面减去在所有已有正交向量 $z_0, z_1, \cdots, z_{k-1}$ 上的投影分量：
+
+$$\boxed{z_k = x_k - \sum_{j=0}^{k-1} \frac{\langle z_j, x_k \rangle}{\langle z_j, z_j \rangle} z_j}$$
+
+每减去一个投影，就消除了 $x_k$ 与 $z_j$ 之间的"重叠"，使 $z_k$ 与所有已有向量正交。
+
+**直觉**：就像在空间中，把一个向量投影到已有基向量上，然后减去，留下垂直分量。
+
+### 第三步：计算最后一个系数
+
+$$\hat{b}_K = \frac{\langle z_K, y \rangle}{\langle z_K, z_K \rangle}$$
+
+由于 $z_K$ 已经与所有其他向量正交，可以直接用一元投影公式。
+
+---
+
+## 整体流程图
+
+```
+x₀, x₁, x₂, ..., xₖ（相互不正交）
+         ↓ Gram-Schmidt正交化
+z₀, z₁, z₂, ..., zₖ（两两正交）
+         ↓ 直接投影
+    b̂ₖ = ⟨zₖ, y⟩ / ⟨zₖ, zₖ⟩
+```
+
+---
+
+## 核心思想总结
+
+|问题|解决方案|
+|---|---|
+|变量不正交，系数互相影响|正交化，消除变量间重叠|
+|多元OLS需要求逆矩阵|正交化后退化为一元投影，无需求逆|
+|$z_k$ 的意义|$x_k$ 中**不能被其他变量解释的部分**|
+
+**$\hat{b}_K$ 的本质**：$x_K$ 在剔除所有其他变量的影响之后，对 $y$ 的净效应。这正是回归系数"偏效应"的几何解释。
 
