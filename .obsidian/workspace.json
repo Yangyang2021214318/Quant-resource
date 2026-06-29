@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5dab02660a0023e6",
+        "id": "869a2de732bfe5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc802699a4764f9",
+            "id": "19bf6dce6481791e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/Day4.md",
+                "file": "量化知识库/01-Raw/文章/因子投资/Day5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day4"
+              "title": "Day5"
+            }
+          },
+          {
+            "id": "248ae0d9cf6fd9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "量化知识库/01-Raw/对话/CTA策略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTA策略"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -218,11 +232,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6bc802699a4764f9",
+  "active": "248ae0d9cf6fd9d5",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/文章/因子投资/Day5.md",
+    "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
+    "量化知识库/01-Raw/对话/CTA策略.md",
+    "量化知识库/01-Raw/对话/可转债.md",
+    "量化知识库/01-Raw/文章/因子投资/Day4.md",
     "Attachments/Pasted image 20260628132355.png",
     "量化知识库/01-Raw/Worldquant brain/Day3.md",
-    "量化知识库/01-Raw/文章/因子投资/Day4.md",
     "量化知识库/01-Raw/文章/因子投资/Day3.md",
     "Attachments/Pasted image 20260627135215.png",
     "量化知识库/01-Raw/文章/因子投资/Day2.md",
@@ -241,9 +259,7 @@
     "copilot/copilot-conversations/OpenRouter_API_Key_Missing@20260623_095641.md",
     "copilot/copilot-conversations",
     "copilot",
-    "Attachments/Pasted image 20260620164239.png",
     "量化知识库/02-Wiki/LLM文本标注.md",
-    "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
     "copilot/copilot-conversations/中文问候@20260620_131044.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -256,9 +272,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "量化知识库/01-Raw/文章/因子投资",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
