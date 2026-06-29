@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Day5"
             }
-          },
-          {
-            "id": "248ae0d9cf6fd9d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "量化知识库/01-Raw/对话/CTA策略.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CTA策略"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -232,11 +218,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "248ae0d9cf6fd9d5",
+  "active": "19bf6dce6481791e",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/01-Raw/文章/因子投资/Day5.md",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
-    "量化知识库/01-Raw/对话/CTA策略.md",
     "量化知识库/01-Raw/对话/可转债.md",
     "量化知识库/01-Raw/文章/因子投资/Day4.md",
     "Attachments/Pasted image 20260628132355.png",
