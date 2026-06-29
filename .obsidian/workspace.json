@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/Factor Zoo/LLM科技主题轮动策略.md",
+                "file": "量化知识库/01-Raw/想法/Factor Zoo/市场情绪事件策略.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM科技主题轮动策略"
+              "title": "市场情绪事件策略"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "19bf6dce6481791e",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/对话/滑点（Slippage）.md",
     "量化知识库/01-Raw/想法/Factor Zoo/LLM科技主题轮动策略.md",
+    "量化知识库/01-Raw/想法/Factor Zoo/市场情绪事件策略.md",
+    "量化知识库/01-Raw/对话/滑点（Slippage）.md",
     "量化知识库/01-Raw/想法/Factor Zoo",
     "量化知识库/01-Raw/未命名.md",
     "量化知识库/01-Raw/文章/因子投资/Day5.md",
@@ -258,7 +259,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "量化知识库/01-Raw/文章/因子投资",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
