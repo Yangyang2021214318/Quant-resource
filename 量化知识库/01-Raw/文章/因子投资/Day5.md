@@ -18,4 +18,50 @@
 | **中位数法 (Median/MAD Method)** | **基于稳健统计量**：使用**中位数**和**中位数绝对离差 (MAD)** 替代均值和标准差。通常用 `MAD * 1.4826` 来估计标准差，以抵抗极端值干扰[](https://shodhganga.inflibnet.ac.in/bitstream/10603/617704/6/06_chapter_2.pdf#3#2)[](https://rdrr.io/cran/OutSeekR/man/quantify.outliers.html)。                                                                                                                                                              | 对分布没有严格要求，**非常稳健**。                                                                                                        | 不容易受异常值干扰，能更稳健地识别出真正的异常点[](http://lib3.dss.go.th/fulltext/scan_ebook/anal_1993_v277_no2.pdf#73#66)。在含较多异常值的数据集中表现优异[](http://lib3.dss.go.th/fulltext/scan_ebook/anal_1993_v277_no2.pdf#73#66)[](https://digitalcommons.aaru.edu.jo/cgi/viewcontent.cgi?article=1503&context=jsap#3#3)。 | 计算复杂于Z-Score；其统计效率可能略低于在数据纯净时的Z-Score[](http://lib3.dss.go.th/fulltext/scan_ebook/anal_1993_v277_no2.pdf#73#66)。                      |
 | **箱线图法 (Boxplot)**           | **基于四分位数间距 (IQR)**：通过数据自身的分位数（Q1和Q3）定义“正常范围”，其上下边界通常为 `Q1 - 1.5*IQR` 和 `Q3 + 1.5*IQR`，超出范围的点被标记为异常值（温和异常值），超出 `3*IQR` 的为极端异常值[](https://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm?trk=article-ssr-frontend-pulse_little-text-block)[](https://web.xidian.edu.cn/lnzhu/files/20181128_163935.pdf#2#2)[](http://www2.coe.pku.edu.cn/tpic/file/20140416/20140416014376757675.pdf#2#2)。 | **无分布假设**（非参数方法）。                                                                                                          | 直观、可视化强，能同时展示数据的分布、中心和离群程度[](http://www2.coe.pku.edu.cn/tpic/file/20140416/20140416014376757675.pdf#2#2)。不依赖于数据分布，应用最广。                                                                                                                                                                |                                                                                                                                       |
 
-## 3. 
+## 3. **Book-to-Market Ratio**（账面市值比）  
+### 定义
+
+BM=市场价值（Market Value）/账面价值（Book Value）
+
+**账面价值**：公司资产负债表上的净资产（股东权益），是会计记录的历史成本价值。
+
+**市场价值**：公司当前的总市值（股价×总股数），是市场参与者对公司未来价值的实时判断。
+
+---
+
+### 直觉含义
+
+BM衡量的是"账面价值"和"市场对它的定价"之间的差距。
+
+**BM高**（比如BM=1.5）：账面价值 > 市场价值，市场给这家公司的定价比账面便宜——投资者不看好它，认为它的未来不值那么多。这类股票叫**价值股（value stocks）**。
+
+**BM低**（比如BM=0.1）：账面价值远小于市场价值，市场给它的定价远高于账面——投资者非常看好它的成长潜力，愿意付出高溢价。这类股票叫**成长股（growth stocks）**。  
+
+---
+
+### 在因子模型里的地位
+
+BM是Fama-French三因子模型里**HML因子**的构造变量。
+
+HML（High Minus Low）：做多BM最高的股票（价值股），做空BM最低的股票（成长股），两者收益之差就是HML因子的收益率。
+
+Fama和French在1992年发现，高BM股票长期平均收益率显著高于低BM股票——这个现象叫做**价值溢价（value premium）**。对于它存在的原因，学界至今有两种主流解释：
+
+**风险补偿**：高BM股票往往是陷入困境的公司，持有它们有更高的系统性风险（比如经济衰退时这类公司更容易倒闭），所以投资者要求更高的风险补偿。
+
+**行为金融**：市场系统性地低估价值股、高估成长股（投资者对过去业绩过度外推），导致价值股被错误定价，聪明钱可以通过套利获得超额收益。
+
+---
+
+### 一个具体例子
+
+假设A公司账面净资产100亿，总市值60亿，则：
+
+BM = 100/60 = **1.67**（P/B=0.6，典型价值股）
+
+B公司账面净资产50亿，总市值500亿，则：
+
+BM = 50/500 = **0.1**（P/B=10，典型成长股）
+
+在截面选股里，如果用BM做信号，你会做多A、做空B——押注市场对A的低估终将修正，对B的高估终将回归。这正是Fama-French价值因子的核心逻辑。  
+
