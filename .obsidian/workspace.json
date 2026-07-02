@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/对话/小市值效应.md",
+                "file": "量化知识库/01-Raw/想法/因子/盈利因子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小市值效应"
+              "title": "盈利因子"
             }
           }
         ]
@@ -220,6 +220,7 @@
   "active": "19bf6dce6481791e",
   "lastOpenFiles": [
     "量化知识库/01-Raw/对话/小市值效应.md",
+    "量化知识库/01-Raw/想法/因子/盈利因子.md",
     "量化知识库/01-Raw/想法/因子/动量因子.md",
     "量化知识库/01-Raw/对话/ROA和ROE.md",
     "量化知识库/01-Raw/对话/EP.md",
@@ -259,7 +260,6 @@
     "copilot/copilot-conversations",
     "copilot",
     "量化知识库/02-Wiki/LLM文本标注.md",
-    "copilot/copilot-conversations/中文问候@20260620_131044.md",
     "copilot/copilot-custom-prompts",
     "量化知识库/01-Raw/文章/因子投资",
     "量化知识库/01-Raw/文章/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
