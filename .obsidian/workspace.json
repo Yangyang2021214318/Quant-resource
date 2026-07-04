@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/因子/盈利因子.md",
+                "file": "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "盈利因子"
+              "title": "剩余收益模型（Residual Income Model, RIM）"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "19bf6dce6481791e",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md",
+    "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
+    "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
     "量化知识库/01-Raw/想法/因子/盈利因子.md",
+    "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md",
     "量化知识库/01-Raw/对话/小市值效应.md",
     "量化知识库/01-Raw/想法/因子/动量因子.md",
     "量化知识库/01-Raw/对话/ROA和ROE.md",
@@ -256,8 +258,6 @@
     "Attachments/Pasted image 20260627122039.png",
     "Attachments/Pasted image 20260627112553.png",
     "量化知识库/01-Raw/文章/因子投资/Day1.md",
-    "conflict-files-obsidian-git.md",
-    "copilot/copilot-conversations/OpenRouter_API_Key_Missing@20260623_095641.md",
     "copilot/copilot-conversations",
     "copilot",
     "copilot/copilot-custom-prompts",
