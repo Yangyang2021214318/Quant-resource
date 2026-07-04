@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "q理论",
+      "path": "量化知识库/01-Raw/对话/q理论.md"
+    },
+    {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "量化知识库/01-Raw/对话/未命名.md"
+    },
+    {
       "basename": "投资因子",
       "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "股权资本成本（Cost of Equity）",
       "path": "量化知识库/01-Raw/对话/股权资本成本（Cost of Equity）.md"
-    },
-    {
-      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
-      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
     },
     {
       "basename": "ROTC（Return on Tangible Capital）",
