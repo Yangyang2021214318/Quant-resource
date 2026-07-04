@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "股权资本成本（Cost of Equity）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,10 +231,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0970e344768fcfb1",
+  "active": "19bf6dce6481791e",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
     "量化知识库/01-Raw/对话/股权资本成本（Cost of Equity）.md",
+    "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
     "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
     "量化知识库/01-Raw/想法/因子/盈利因子.md",
     "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md",
