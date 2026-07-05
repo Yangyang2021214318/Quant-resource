@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CLAUDE",
+      "path": "量化知识库/CLAUDE.md"
+    },
+    {
       "basename": "投资因子",
       "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "条件逻辑与trade_when",
       "path": "量化知识库/02-Wiki/条件逻辑与trade_when.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "量化知识库/CLAUDE.md"
     },
     {
       "basename": "事件研究法",
