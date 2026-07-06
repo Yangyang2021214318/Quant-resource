@@ -5,6 +5,14 @@
       "path": "量化知识库/01-Raw/想法/模型/Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）.md"
     },
     {
+      "basename": "1101143294036084量化投资以Python为工具.",
+      "path": "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf"
+    },
+    {
+      "basename": "未命名",
+      "path": "量化知识库/01-Raw/文章/量化投资python/未命名.md"
+    },
+    {
       "basename": "Carhart 四因子模型（Carhart Four-Factor Model）",
       "path": "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "换手率因子",
       "path": "量化知识库/01-Raw/想法/因子/换手率因子.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "量化知识库/01-Raw/文章/量化投资python/未命名.md"
     },
     {
       "basename": "条件逻辑与trade_when",
