@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/量化投资python/未命名.md",
-                "mode": "source",
+                "file": "量化知识库/01-Raw/想法/因子/换手率因子（Turnover Rate Factor）.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "换手率因子（Turnover Rate Factor）"
             }
           }
         ]
@@ -217,11 +217,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0038bf18ffc30c5e",
+  "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/文章/量化投资python/未命名.md",
+    "量化知识库/01-Raw/想法/因子/换手率因子（Turnover Rate Factor）.md",
     "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf",
     "量化知识库/01-Raw/文章/量化投资python.md",
-    "量化知识库/01-Raw/文章/量化投资python/未命名.md",
     "量化知识库/01-Raw/文章/量化投资python",
     "量化知识库/02-Wiki/条件逻辑与trade_when.md",
     "01-Raw/文章/-Join WorldQuant BRAIN.md",
@@ -263,7 +264,6 @@
     "Attachments/Pasted image 20260627124731.png",
     "Attachments/Pasted image 20260627122039.png",
     "Attachments/Pasted image 20260627112553.png",
-    "copilot/copilot-conversations",
-    "copilot"
+    "copilot/copilot-conversations"
   ]
 }
