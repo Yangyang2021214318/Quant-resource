@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
+      "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
+    },
+    {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
       "basename": "投资因子",
       "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
     },
     {
       "basename": "盈利因子",
       "path": "量化知识库/01-Raw/想法/因子/盈利因子.md"
-    },
-    {
-      "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
     },
     {
       "basename": "Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）",
@@ -55,10 +59,6 @@
     {
       "basename": "q理论",
       "path": "量化知识库/01-Raw/对话/q理论.md"
-    },
-    {
-      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
-      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
     },
     {
       "basename": "未命名",
