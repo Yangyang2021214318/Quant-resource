@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/因子/换手率因子（Turnover Rate Factor）.md",
+                "file": "量化知识库/01-Raw/想法/因子/换手率因子.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "换手率因子（Turnover Rate Factor）"
+              "title": "换手率因子"
             }
           }
         ]
@@ -220,7 +220,7 @@
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
     "量化知识库/01-Raw/文章/量化投资python/未命名.md",
-    "量化知识库/01-Raw/想法/因子/换手率因子（Turnover Rate Factor）.md",
+    "量化知识库/01-Raw/想法/因子/换手率因子.md",
     "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf",
     "量化知识库/01-Raw/文章/量化投资python.md",
     "量化知识库/01-Raw/文章/量化投资python",
