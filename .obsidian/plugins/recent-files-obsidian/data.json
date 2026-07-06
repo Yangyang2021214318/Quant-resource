@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
+      "path": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
+    },
+    {
+      "basename": "规模因子",
+      "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
+    },
+    {
+      "basename": "价值因子",
+      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
+    },
+    {
       "basename": "换手率因子",
       "path": "量化知识库/01-Raw/想法/因子/换手率因子.md"
     },
@@ -63,14 +75,6 @@
     {
       "basename": "A股市场壳",
       "path": "量化知识库/01-Raw/对话/A股市场壳.md"
-    },
-    {
-      "basename": "价值因子",
-      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
-    },
-    {
-      "basename": "规模因子",
-      "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
     },
     {
       "basename": "市场因子",
