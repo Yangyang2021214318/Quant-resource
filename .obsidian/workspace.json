@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md",
+                "file": "量化知识库/01-Raw/想法/模型/Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Carhart 四因子模型（Carhart Four-Factor Model）"
+              "title": "Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md",
+    "量化知识库/01-Raw/想法/模型/Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）.md",
+    "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/想法/因子/规模因子.md",
     "量化知识库/01-Raw/想法/模型",
     "量化知识库/01-Raw/想法/因子/价值因子.md",
@@ -254,7 +255,6 @@
     "量化知识库/01-Raw/想法/因子/市场因子.md",
     "Attachments/Pasted image 20260701161904.png",
     "Attachments/Pasted image 20260701161144.png",
-    "量化知识库/01-Raw/文章/因子投资/Day5.md",
     "量化知识库/01-Raw/想法/因子",
     "量化知识库/01-Raw/想法/策略",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
