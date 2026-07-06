@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "投资因子",
+      "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
+    },
+    {
+      "basename": "盈利因子",
+      "path": "量化知识库/01-Raw/想法/因子/盈利因子.md"
+    },
+    {
       "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
       "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
     },
@@ -45,10 +53,6 @@
       "path": "量化知识库/CLAUDE.md"
     },
     {
-      "basename": "投资因子",
-      "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
-    },
-    {
       "basename": "q理论",
       "path": "量化知识库/01-Raw/对话/q理论.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "未命名",
       "path": "量化知识库/01-Raw/对话/未命名.md"
-    },
-    {
-      "basename": "盈利因子",
-      "path": "量化知识库/01-Raw/想法/因子/盈利因子.md"
     },
     {
       "basename": "剩余收益模型（Residual Income Model, RIM）",
