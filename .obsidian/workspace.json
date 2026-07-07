@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/Day3.md",
+                "file": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Day3"
+              "title": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "逆",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,12 +226,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "86c0f5099c311106",
+  "active": "0d89650bcf257229",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
-    "量化知识库/01-Raw/文章/因子投资/Day4.md",
+    "Attachments/Pasted image 20260707124213.png",
     "量化知识库/01-Raw/文章/因子投资/Day3.md",
     "量化知识库/01-Raw/文章/因子投资/Day2.md",
+    "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
+    "量化知识库/01-Raw/文章/因子投资/Day4.md",
     "量化知识库/01-Raw/文章/因子投资/Day5.md",
     "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/02-Wiki/CAPM.md",
@@ -263,7 +263,6 @@
     "量化知识库/02-Wiki/可转债.md.tmp.9908.d061130d3552",
     "量化知识库/02-Wiki/技术分析.md.tmp.9908.22fccb457185",
     "量化知识库/01-Raw/对话/q理论.md",
-    "量化知识库/01-Raw/对话/未命名.md",
     "Attachments/Pasted image 20260701162913.png",
     "Attachments/Pasted image 20260701161904.png",
     "Attachments/Pasted image 20260701161144.png",
