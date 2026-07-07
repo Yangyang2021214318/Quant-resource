@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）",
+      "path": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md"
+    },
+    {
+      "basename": "Day4",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day3.md"
+    },
+    {
+      "basename": "Day2",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day2.md"
+    },
+    {
+      "basename": "Day5",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day5.md"
+    },
+    {
+      "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
+      "path": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
+    },
+    {
+      "basename": "CAPM",
+      "path": "量化知识库/02-Wiki/CAPM.md"
+    },
+    {
+      "basename": "_index",
+      "path": "量化知识库/02-Wiki/_index.md"
+    },
+    {
+      "basename": "异象",
+      "path": "量化知识库/02-Wiki/异象.md"
+    },
+    {
       "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
       "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
     },
@@ -31,10 +67,6 @@
     {
       "basename": "Carhart 四因子模型（Carhart Four-Factor Model）",
       "path": "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md"
-    },
-    {
-      "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
     },
     {
       "basename": "规模因子",
@@ -97,18 +129,6 @@
       "path": "量化知识库/01-Raw/想法/因子/市场因子.md"
     },
     {
-      "basename": "Day5",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day5.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day3.md"
-    },
-    {
-      "basename": "Day2",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day2.md"
-    },
-    {
       "basename": "市场情绪事件策略",
       "path": "量化知识库/01-Raw/想法/策略/市场情绪事件策略.md"
     },
@@ -131,10 +151,6 @@
     {
       "basename": "可转债",
       "path": "量化知识库/01-Raw/对话/可转债.md"
-    },
-    {
-      "basename": "Day4",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
     },
     {
       "basename": "Day3",
@@ -183,22 +199,6 @@
     {
       "basename": "投资者关注度",
       "path": "量化知识库/02-Wiki/投资者关注度.md"
-    },
-    {
-      "basename": "异象",
-      "path": "量化知识库/02-Wiki/异象.md"
-    },
-    {
-      "basename": "论文-A股投资者问答LLM事件研究",
-      "path": "量化知识库/02-Wiki/论文-A股投资者问答LLM事件研究.md"
-    },
-    {
-      "basename": "累计异常收益",
-      "path": "量化知识库/02-Wiki/累计异常收益.md"
-    },
-    {
-      "basename": "_index",
-      "path": "量化知识库/02-Wiki/_index.md"
     }
   ],
   "omittedPaths": [],

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
-                "mode": "preview",
+                "file": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,21 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fama–French 五因子模型（Fama-French Five-Factor Model）"
-            }
-          },
-          {
-            "id": "a36335594ac66da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "股利贴现模型（Dividend Discount Model, DDM）"
+              "title": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）"
             }
           }
         ]
@@ -128,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
+                "file": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Fama–French 五因子模型（Fama-French Five-Factor Model） 的反向链接列表"
+              "title": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier） 的反向链接列表"
             }
           },
           {
@@ -242,8 +228,17 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
-    "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
+    "量化知识库/01-Raw/文章/因子投资/Day4.md",
+    "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
+    "量化知识库/01-Raw/文章/因子投资/Day3.md",
+    "量化知识库/01-Raw/文章/因子投资/Day2.md",
+    "量化知识库/01-Raw/文章/因子投资/Day5.md",
+    "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
+    "量化知识库/02-Wiki/CAPM.md",
+    "量化知识库/02-Wiki/_index.md",
+    "量化知识库/02-Wiki/异象.md",
     "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
+    "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
     "量化知识库/01-Raw/想法/因子/投资因子.md",
     "量化知识库/01-Raw/想法/因子/盈利因子.md",
     "Attachments/Pasted image 20260706152737.png",
@@ -252,7 +247,6 @@
     "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf",
     "量化知识库/01-Raw/文章/量化投资python/未命名.md",
     "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md",
-    "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/想法/因子/规模因子.md",
     "量化知识库/01-Raw/想法/模型",
     "量化知识库/01-Raw/想法/因子/价值因子.md",
@@ -269,13 +263,6 @@
     "量化知识库/02-Wiki/技术分析.md.tmp.9908.22fccb457185",
     "量化知识库/01-Raw/对话/q理论.md",
     "量化知识库/01-Raw/对话/未命名.md",
-    "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md",
-    "量化知识库/01-Raw/对话/股权资本成本（Cost of Equity）.md",
-    "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md",
-    "量化知识库/01-Raw/对话/小市值效应.md",
-    "量化知识库/01-Raw/想法/因子/动量因子.md",
-    "量化知识库/01-Raw/对话/ROA和ROE.md",
-    "量化知识库/01-Raw/对话/EP.md",
     "Attachments/Pasted image 20260701162913.png",
     "Attachments/Pasted image 20260701161904.png",
     "Attachments/Pasted image 20260701161144.png",
