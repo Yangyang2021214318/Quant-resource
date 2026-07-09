@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
+      "basename": "价值因子",
+      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
+    },
+    {
+      "basename": "Day1",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
+    },
+    {
       "basename": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）",
       "path": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md"
     },
@@ -41,10 +53,6 @@
       "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
     },
     {
-      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
-      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
-    },
-    {
       "basename": "投资因子",
       "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
     },
@@ -73,10 +81,6 @@
       "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
     },
     {
-      "basename": "价值因子",
-      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
-    },
-    {
       "basename": "换手率因子",
       "path": "量化知识库/01-Raw/想法/因子/换手率因子.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "q理论",
       "path": "量化知识库/01-Raw/对话/q理论.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "量化知识库/01-Raw/对话/未命名.md"
     },
     {
       "basename": "剩余收益模型（Residual Income Model, RIM）",
@@ -163,10 +163,6 @@
     {
       "basename": "因子投资",
       "path": "量化知识库/02-Wiki/因子投资.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
     },
     {
       "basename": "LLM文本标注",
