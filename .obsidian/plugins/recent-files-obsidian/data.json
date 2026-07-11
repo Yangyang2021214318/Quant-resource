@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "价值因子",
+      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
+    },
+    {
+      "basename": "Day6",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day6.md"
+    },
+    {
+      "basename": "Day1",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
+    },
+    {
       "basename": "夏普比率",
       "path": "量化知识库/02-Wiki/夏普比率.md"
     },
     {
       "basename": "_index",
       "path": "量化知识库/02-Wiki/_index.md"
-    },
-    {
-      "basename": "G-score",
-      "path": "量化知识库/01-Raw/文章/因子投资/G-score.md"
-    },
-    {
-      "basename": "F-score",
-      "path": "量化知识库/01-Raw/文章/因子投资/F-score.md"
     },
     {
       "basename": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)",
@@ -53,16 +57,8 @@
       "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
     },
     {
-      "basename": "价值因子",
-      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
-    },
-    {
       "basename": "股利贴现模型（Dividend Discount Model, DDM）",
       "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
     },
     {
       "basename": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）",
@@ -195,10 +191,6 @@
     {
       "basename": "Pasted image 20260527160917",
       "path": "Attachments/Pasted image 20260527160917.png"
-    },
-    {
-      "basename": "Day2",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day2.md"
     }
   ],
   "omittedPaths": [],
