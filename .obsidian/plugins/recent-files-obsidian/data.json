@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "夏普比率",
+      "path": "量化知识库/02-Wiki/夏普比率.md"
+    },
+    {
+      "basename": "_index",
+      "path": "量化知识库/02-Wiki/_index.md"
+    },
+    {
+      "basename": "G-score",
+      "path": "量化知识库/01-Raw/文章/因子投资/G-score.md"
+    },
+    {
       "basename": "F-score",
       "path": "量化知识库/01-Raw/文章/因子投资/F-score.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "因子投资",
       "path": "量化知识库/02-Wiki/因子投资.md"
-    },
-    {
-      "basename": "_index",
-      "path": "量化知识库/02-Wiki/_index.md"
     },
     {
       "basename": "换手率因子",
@@ -191,14 +199,6 @@
     {
       "basename": "Day2",
       "path": "量化知识库/01-Raw/Worldquant brain/Day2.md"
-    },
-    {
-      "basename": "事件研究法",
-      "path": "量化知识库/02-Wiki/事件研究法.md"
-    },
-    {
-      "basename": "投资者关注度",
-      "path": "量化知识库/02-Wiki/投资者关注度.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/文章/因子投资/F-score.md",
+                "file": "量化知识库/02-Wiki/夏普比率.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F-score"
+              "title": "夏普比率"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "夏普",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,16 +219,18 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/02-Wiki/_index.md",
+    "量化知识库/01-Raw/文章/因子投资/G-score.md",
+    "Attachments/Pasted image 20260711160730.png",
+    "量化知识库/01-Raw/文章/因子投资/F-score.md",
     "Attachments/Pasted image 20260711155446.png",
     "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf",
-    "量化知识库/01-Raw/文章/因子投资/F-score.md",
     "量化知识库/01-Raw/文章/因子投资/Day5.md",
     "量化知识库/01-Raw/想法/因子/市场因子.md",
     "量化知识库/01-Raw/文章/因子投资/Day4.md",
     "量化知识库/01-Raw/文章/因子投资/Day3.md",
     "量化知识库/01-Raw/文章/因子投资/Day2.md",
     "量化知识库/02-Wiki/因子投资.md",
-    "量化知识库/02-Wiki/_index.md",
     "量化知识库/01-Raw/想法/因子/换手率因子.md",
     "量化知识库/01-Raw/想法/因子/规模因子.md",
     "量化知识库/01-Raw/想法/因子/价值因子.md",
@@ -249,7 +252,6 @@
     "量化知识库/01-Raw/文章/量化投资python/未命名.md",
     "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md",
     "量化知识库/01-Raw/想法/模型",
-    "量化知识库/01-Raw/文章/量化投资python.md",
     "量化知识库/01-Raw/文章/量化投资python",
     "量化知识库/02-Wiki/_index.md.tmp.9908.6bc6effada1c",
     "量化知识库/02-Wiki/_index.md.tmp.9908.689acaab7b08",
@@ -261,8 +263,6 @@
     "量化知识库/01-Raw/想法/因子",
     "量化知识库/01-Raw/想法/策略",
     "Attachments/Pasted image 20260628132355.png",
-    "Attachments/Pasted image 20260627135215.png",
-    "Attachments/Pasted image 20260627132635.png",
-    "Attachments/Pasted image 20260627130319.png"
+    "Attachments/Pasted image 20260627135215.png"
   ]
 }
