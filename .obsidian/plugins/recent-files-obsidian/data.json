@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "市场因子",
+      "path": "量化知识库/01-Raw/想法/因子/市场因子.md"
+    },
+    {
       "basename": "Day4",
       "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "A股市场壳",
       "path": "量化知识库/01-Raw/对话/A股市场壳.md"
-    },
-    {
-      "basename": "市场因子",
-      "path": "量化知识库/01-Raw/想法/因子/市场因子.md"
     },
     {
       "basename": "市场情绪事件策略",
