@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/异象/基本面锚定反转.md",
+                "file": "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本面锚定反转"
+              "title": "基本面锚定反转（fundamental-anchored reversal，FAR）"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260713170718.png",
     "量化知识库/01-Raw/文章/因子投资/Day6.md",
-    "量化知识库/01-Raw/想法/异象/基本面锚定反转.md",
+    "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
     "量化知识库/01-Raw/想法/异象",
     "Attachments/Pasted image 20260711164610.png",
     "量化知识库/01-Raw/想法/因子/价值因子.md",
@@ -253,7 +254,6 @@
     "量化知识库/01-Raw/想法/因子/盈利因子.md",
     "Attachments/Pasted image 20260706152737.png",
     "Attachments/Pasted image 20260706152350.png",
-    "量化知识库/01-Raw/想法/模型/Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）.md",
     "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf",
     "量化知识库/01-Raw/想法/模型",
     "量化知识库/01-Raw/文章/量化投资python",
