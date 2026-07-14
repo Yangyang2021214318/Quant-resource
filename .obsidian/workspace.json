@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
-                "mode": "source",
+                "file": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本面锚定反转（fundamental-anchored reversal，FAR）"
+              "title": "Fama–French 三因子模型（Fama-French Three-Factor Model）"
             }
           }
         ]
@@ -218,9 +218,9 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
     "Attachments/Pasted image 20260713170718.png",
     "量化知识库/01-Raw/文章/因子投资/Day6.md",
-    "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
     "量化知识库/01-Raw/想法/异象",
     "Attachments/Pasted image 20260711164610.png",
     "量化知识库/01-Raw/想法/因子/价值因子.md",
@@ -262,7 +262,6 @@
     "量化知识库/02-Wiki/可转债.md.tmp.9908.d061130d3552",
     "量化知识库/02-Wiki/技术分析.md.tmp.9908.22fccb457185",
     "Attachments/Pasted image 20260701162913.png",
-    "Attachments/Pasted image 20260701161904.png",
     "量化知识库/01-Raw/想法/因子"
   ]
 }
