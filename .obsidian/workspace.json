@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/02-Wiki/中性化.md",
-                "mode": "preview",
+                "file": "量化知识库/01-Raw/对话/KDJ技术指标.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中性化"
+              "title": "KDJ技术指标"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行业中",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,6 +218,8 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/02-Wiki/中性化.md",
+    "量化知识库/01-Raw/对话/KDJ技术指标.md",
     "量化知识库/02-Wiki/_index.md",
     "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
@@ -245,7 +246,6 @@
     "量化知识库/01-Raw/想法/因子/换手率因子.md",
     "量化知识库/01-Raw/想法/因子/规模因子.md",
     "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md",
-    "量化知识库/01-Raw/对话/未命名.md",
     "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
     "Attachments/Pasted image 20260707124213.png",
     "量化知识库/02-Wiki/CAPM.md",
