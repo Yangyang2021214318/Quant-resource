@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -218,6 +219,7 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260718121914.png",
     "量化知识库/02-Wiki/中性化.md",
     "量化知识库/01-Raw/对话/KDJ技术指标.md",
     "量化知识库/02-Wiki/_index.md",
@@ -252,7 +254,6 @@
     "量化知识库/02-Wiki/异象.md",
     "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
     "量化知识库/01-Raw/想法/因子/投资因子.md",
-    "量化知识库/01-Raw/想法/因子/盈利因子.md",
     "Attachments/Pasted image 20260706152737.png",
     "Attachments/Pasted image 20260706152350.png",
     "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf",
