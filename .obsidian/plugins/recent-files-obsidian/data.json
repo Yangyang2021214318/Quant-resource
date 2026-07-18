@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "中性化",
+      "path": "量化知识库/02-Wiki/中性化.md"
+    },
+    {
+      "basename": "_index",
+      "path": "量化知识库/02-Wiki/_index.md"
+    },
+    {
       "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
       "path": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "夏普比率",
       "path": "量化知识库/02-Wiki/夏普比率.md"
-    },
-    {
-      "basename": "_index",
-      "path": "量化知识库/02-Wiki/_index.md"
     },
     {
       "basename": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)",
