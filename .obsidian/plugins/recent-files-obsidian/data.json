@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "技术分析",
+      "path": "量化知识库/02-Wiki/技术分析.md"
+    },
+    {
+      "basename": "Day6",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day6.md"
+    },
+    {
       "basename": "KDJ技术指标",
       "path": "量化知识库/01-Raw/对话/KDJ技术指标.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "基本面锚定反转（fundamental-anchored reversal，FAR）",
       "path": "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md"
-    },
-    {
-      "basename": "Day6",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day6.md"
     },
     {
       "basename": "价值因子",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20260601153723",
       "path": "Attachments/Pasted image 20260601153723.png"
-    },
-    {
-      "basename": "Pasted image 20260528135011",
-      "path": "Attachments/Pasted image 20260528135011.png"
     }
   ],
   "omittedPaths": [],
