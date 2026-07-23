@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "多重假设检验与贝叶斯p值",
+      "path": "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/多重假设检验与贝叶斯p值.md"
+    },
+    {
+      "basename": "系统性风险与特异性风险",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/系统性风险与特异性风险.md"
+    },
+    {
+      "basename": "多因子风险模型",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/多因子风险模型.md"
+    },
+    {
       "basename": "技术分析",
       "path": "量化知识库/02-Wiki/技术分析.md"
     },
@@ -9,28 +21,12 @@
       "path": "量化知识库/01-Raw/文章/因子投资/Day6.md"
     },
     {
-      "basename": "KDJ技术指标",
-      "path": "量化知识库/01-Raw/对话/KDJ技术指标.md"
-    },
-    {
       "basename": "中性化",
       "path": "量化知识库/02-Wiki/中性化.md"
     },
     {
       "basename": "_index",
       "path": "量化知识库/02-Wiki/_index.md"
-    },
-    {
-      "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
-    },
-    {
-      "basename": "基本面锚定反转（fundamental-anchored reversal，FAR）",
-      "path": "量化知识库/01-Raw/想法/异象/基本面锚定反转（fundamental-anchored reversal，FAR）.md"
-    },
-    {
-      "basename": "价值因子",
-      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
     },
     {
       "basename": "Day1",
@@ -49,10 +45,6 @@
       "path": "量化知识库/01-Raw/文章/因子投资/Day5.md"
     },
     {
-      "basename": "市场因子",
-      "path": "量化知识库/01-Raw/想法/因子/市场因子.md"
-    },
-    {
       "basename": "Day4",
       "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
     },
@@ -69,56 +61,12 @@
       "path": "量化知识库/02-Wiki/因子投资.md"
     },
     {
-      "basename": "换手率因子",
-      "path": "量化知识库/01-Raw/想法/因子/换手率因子.md"
-    },
-    {
-      "basename": "规模因子",
-      "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
-    },
-    {
-      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
-      "path": "量化知识库/01-Raw/对话/股利贴现模型（Dividend Discount Model, DDM）.md"
-    },
-    {
-      "basename": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）",
-      "path": "量化知识库/01-Raw/想法/模型/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md"
-    },
-    {
       "basename": "CAPM",
       "path": "量化知识库/02-Wiki/CAPM.md"
     },
     {
       "basename": "异象",
       "path": "量化知识库/02-Wiki/异象.md"
-    },
-    {
-      "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
-    },
-    {
-      "basename": "投资因子",
-      "path": "量化知识库/01-Raw/想法/因子/投资因子.md"
-    },
-    {
-      "basename": "盈利因子",
-      "path": "量化知识库/01-Raw/想法/因子/盈利因子.md"
-    },
-    {
-      "basename": "Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Novy–Marx 四因子模型（Novy-Marx Four-Factor Model）.md"
-    },
-    {
-      "basename": "1101143294036084量化投资以Python为工具.",
-      "path": "量化知识库/01-Raw/文章/量化投资python/1101143294036084量化投资以Python为工具..pdf"
-    },
-    {
-      "basename": "未命名",
-      "path": "量化知识库/01-Raw/文章/量化投资python/未命名.md"
-    },
-    {
-      "basename": "Carhart 四因子模型（Carhart Four-Factor Model）",
-      "path": "量化知识库/01-Raw/想法/模型/Carhart 四因子模型（Carhart Four-Factor Model）.md"
     },
     {
       "basename": "条件逻辑与trade_when",
@@ -129,72 +77,12 @@
       "path": "量化知识库/CLAUDE.md"
     },
     {
-      "basename": "q理论",
-      "path": "量化知识库/01-Raw/对话/q理论.md"
-    },
-    {
-      "basename": "剩余收益模型（Residual Income Model, RIM）",
-      "path": "量化知识库/01-Raw/对话/剩余收益模型（Residual Income Model, RIM）.md"
-    },
-    {
-      "basename": "股权资本成本（Cost of Equity）",
-      "path": "量化知识库/01-Raw/对话/股权资本成本（Cost of Equity）.md"
-    },
-    {
-      "basename": "ROTC（Return on Tangible Capital）",
-      "path": "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md"
-    },
-    {
-      "basename": "小市值效应",
-      "path": "量化知识库/01-Raw/对话/小市值效应.md"
-    },
-    {
-      "basename": "动量因子",
-      "path": "量化知识库/01-Raw/想法/因子/动量因子.md"
-    },
-    {
-      "basename": "ROA和ROE",
-      "path": "量化知识库/01-Raw/对话/ROA和ROE.md"
-    },
-    {
-      "basename": "A股市场壳",
-      "path": "量化知识库/01-Raw/对话/A股市场壳.md"
-    },
-    {
-      "basename": "市场情绪事件策略",
-      "path": "量化知识库/01-Raw/想法/策略/市场情绪事件策略.md"
-    },
-    {
-      "basename": "LLM科技主题轮动策略",
-      "path": "量化知识库/01-Raw/想法/策略/LLM科技主题轮动策略.md"
-    },
-    {
-      "basename": "滑点（Slippage）",
-      "path": "量化知识库/01-Raw/对话/滑点（Slippage）.md"
-    },
-    {
-      "basename": "CTA策略",
-      "path": "量化知识库/01-Raw/对话/CTA策略.md"
-    },
-    {
-      "basename": "可转债",
-      "path": "量化知识库/01-Raw/对话/可转债.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day3.md"
-    },
-    {
       "basename": "多因子模型",
       "path": "量化知识库/02-Wiki/多因子模型.md"
     },
     {
       "basename": "LLM文本标注",
       "path": "量化知识库/02-Wiki/LLM文本标注.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day1.md"
     },
     {
       "basename": "Pasted image 20260601153723",
