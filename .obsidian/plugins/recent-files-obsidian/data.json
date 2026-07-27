@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "协方差矩阵",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md"
+    },
+    {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
+      "basename": "剩余收益模型（Residual Income Model, RIM）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/剩余收益模型/剩余收益模型（Residual Income Model, RIM）.md"
+    },
+    {
       "basename": "多重假设检验与贝叶斯p值",
       "path": "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/多重假设检验与贝叶斯p值.md"
+    },
+    {
+      "basename": "README",
+      "path": "量化知识库/01-Raw/01-因子投资/README.md"
     },
     {
       "basename": "系统性风险与特异性风险",
