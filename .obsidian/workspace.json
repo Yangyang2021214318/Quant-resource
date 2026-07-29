@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md",
+                "file": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/多因子风险模型.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "协方差矩阵"
+              "title": "多因子风险模型"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md",
     "量化知识库/02-Wiki/主成分分析.md",
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/主成分分析.md",
     "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md",
@@ -246,7 +247,6 @@
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Carhart 四因子模型（Carhart Four-Factor Model）.md",
     "量化知识库/01-Raw/01-因子投资/04-异象与因子筛选/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/ROTC（Return on Tangible Capital）.md",
-    "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/ROA和ROE.md",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标",
     "量化知识库/01-Raw/05-公司金融与估值/股权资本成本",
     "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型",
