@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "债务股本比",
+                "query": "IC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,6 +219,7 @@
   },
   "active": "86c0f5099c311106",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/债务股本比（Debt-to-Equity Ratio）.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/多因子风险模型.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md",
@@ -247,7 +248,6 @@
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Carhart 四因子模型（Carhart Four-Factor Model）.md",
-    "量化知识库/01-Raw/01-因子投资/04-异象与因子筛选/基本面锚定反转（fundamental-anchored reversal，FAR）.md",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标",
     "量化知识库/01-Raw/05-公司金融与估值/股权资本成本",
     "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型",
