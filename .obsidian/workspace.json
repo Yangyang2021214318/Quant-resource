@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -84,8 +86,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0d89650bcf257229",
+  "active": "0038bf18ffc30c5e",
   "lastOpenFiles": [
     "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/信息系数（Information Coefficient）.md",
     "量化知识库/02-Wiki/中性化.md",
