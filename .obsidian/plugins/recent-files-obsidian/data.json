@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
       "basename": "_index",
       "path": "量化知识库/02-Wiki/_index.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "协方差矩阵",
       "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md"
-    },
-    {
-      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
-      "path": "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md"
     },
     {
       "basename": "剩余收益模型（Residual Income Model, RIM）",
