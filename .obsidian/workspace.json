@@ -86,7 +86,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0d89650bcf257229",
+  "active": "86c0f5099c311106",
   "lastOpenFiles": [
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/因子估值择时与动态权重.md",
     "量化知识库/02-Wiki/_index.md",
