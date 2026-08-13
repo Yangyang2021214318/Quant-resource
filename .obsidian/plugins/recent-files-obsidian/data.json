@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day1",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
+    },
+    {
       "basename": "ROTC（Return on Tangible Capital）",
       "path": "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "因子投资",
       "path": "量化知识库/02-Wiki/因子投资.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
     },
     {
       "basename": "LLM文本标注",
