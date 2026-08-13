@@ -1,48 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）",
+      "path": "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md"
+    },
+    {
+      "basename": "README",
+      "path": "量化知识库/01-Raw/01-因子投资/README.md"
+    },
+    {
+      "basename": "因子估值择时与动态权重",
+      "path": "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/因子估值择时与动态权重.md"
+    },
+    {
+      "basename": "均值方差优化",
+      "path": "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/均值方差优化.md"
+    },
+    {
+      "basename": "多因子模型",
+      "path": "量化知识库/02-Wiki/多因子模型.md"
+    },
+    {
+      "basename": "股利贴现模型（Dividend Discount Model, DDM）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md"
+    },
+    {
+      "basename": "_index",
+      "path": "量化知识库/02-Wiki/_index.md"
+    },
+    {
+      "basename": "中性化",
+      "path": "量化知识库/02-Wiki/中性化.md"
+    },
+    {
+      "basename": "因子投资",
+      "path": "量化知识库/02-Wiki/因子投资.md"
+    },
+    {
+      "basename": "特质性波动率",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md"
+    },
+    {
+      "basename": "Day1",
+      "path": "量化知识库/01-Raw/01-因子投资/99-旧Day笔记归档/Day1.md"
+    },
+    {
+      "basename": "多因子风险模型",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/多因子风险模型.md"
+    },
+    {
+      "basename": "协方差矩阵",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/协方差矩阵.md"
+    },
+    {
+      "basename": "剩余收益模型（Residual Income Model, RIM）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/剩余收益模型/剩余收益模型（Residual Income Model, RIM）.md"
+    },
+    {
+      "basename": "多重假设检验与贝叶斯p值",
+      "path": "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/多重假设检验与贝叶斯p值.md"
+    },
+    {
+      "basename": "系统性风险与特异性风险",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/系统性风险与特异性风险.md"
+    },
+    {
+      "basename": "技术分析",
+      "path": "量化知识库/02-Wiki/技术分析.md"
+    },
+    {
+      "basename": "Day6",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day6.md"
+    },
+    {
       "basename": "Day1",
       "path": "量化知识库/01-Raw/文章/因子投资/Day1.md"
     },
     {
-      "basename": "ROTC（Return on Tangible Capital）",
-      "path": "量化知识库/01-Raw/对话/ROTC（Return on Tangible Capital）.md"
+      "basename": "夏普比率",
+      "path": "量化知识库/02-Wiki/夏普比率.md"
     },
     {
-      "basename": "盈利因子",
-      "path": "量化知识库/01-Raw/想法/因子/盈利因子.md"
-    },
-    {
-      "basename": "小市值效应",
-      "path": "量化知识库/01-Raw/对话/小市值效应.md"
-    },
-    {
-      "basename": "动量因子",
-      "path": "量化知识库/01-Raw/想法/因子/动量因子.md"
-    },
-    {
-      "basename": "ROA和ROE",
-      "path": "量化知识库/01-Raw/对话/ROA和ROE.md"
-    },
-    {
-      "basename": "A股市场壳",
-      "path": "量化知识库/01-Raw/对话/A股市场壳.md"
-    },
-    {
-      "basename": "价值因子",
-      "path": "量化知识库/01-Raw/想法/因子/价值因子.md"
-    },
-    {
-      "basename": "规模因子",
-      "path": "量化知识库/01-Raw/想法/因子/规模因子.md"
-    },
-    {
-      "basename": "市场因子",
-      "path": "量化知识库/01-Raw/想法/因子/市场因子.md"
+      "basename": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)",
+      "path": "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
     },
     {
       "basename": "Day5",
       "path": "量化知识库/01-Raw/文章/因子投资/Day5.md"
+    },
+    {
+      "basename": "Day4",
+      "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
     },
     {
       "basename": "Day3",
@@ -53,76 +101,12 @@
       "path": "量化知识库/01-Raw/文章/因子投资/Day2.md"
     },
     {
-      "basename": "市场情绪事件策略",
-      "path": "量化知识库/01-Raw/想法/策略/市场情绪事件策略.md"
+      "basename": "CAPM",
+      "path": "量化知识库/02-Wiki/CAPM.md"
     },
     {
-      "basename": "LLM科技主题轮动策略",
-      "path": "量化知识库/01-Raw/想法/策略/LLM科技主题轮动策略.md"
-    },
-    {
-      "basename": "滑点（Slippage）",
-      "path": "量化知识库/01-Raw/对话/滑点（Slippage）.md"
-    },
-    {
-      "basename": "CTA策略",
-      "path": "量化知识库/01-Raw/对话/CTA策略.md"
-    },
-    {
-      "basename": "石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)",
-      "path": "量化知识库/01-Raw/文章/因子投资/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020).pdf"
-    },
-    {
-      "basename": "可转债",
-      "path": "量化知识库/01-Raw/对话/可转债.md"
-    },
-    {
-      "basename": "Day4",
-      "path": "量化知识库/01-Raw/文章/因子投资/Day4.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day3.md"
-    },
-    {
-      "basename": "多因子模型",
-      "path": "量化知识库/02-Wiki/多因子模型.md"
-    },
-    {
-      "basename": "因子投资",
-      "path": "量化知识库/02-Wiki/因子投资.md"
-    },
-    {
-      "basename": "LLM文本标注",
-      "path": "量化知识库/02-Wiki/LLM文本标注.md"
-    },
-    {
-      "basename": "Day1",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day1.md"
-    },
-    {
-      "basename": "Pasted image 20260601153723",
-      "path": "Attachments/Pasted image 20260601153723.png"
-    },
-    {
-      "basename": "Pasted image 20260528135011",
-      "path": "Attachments/Pasted image 20260528135011.png"
-    },
-    {
-      "basename": "Pasted image 20260527160917",
-      "path": "Attachments/Pasted image 20260527160917.png"
-    },
-    {
-      "basename": "Day2",
-      "path": "量化知识库/01-Raw/Worldquant brain/Day2.md"
-    },
-    {
-      "basename": "-Join WorldQuant BRAIN 1",
-      "path": "01-Raw/文章/-Join WorldQuant BRAIN 1.md"
-    },
-    {
-      "basename": "-Join WorldQuant BRAIN",
-      "path": "01-Raw/文章/-Join WorldQuant BRAIN.md"
+      "basename": "异象",
+      "path": "量化知识库/02-Wiki/异象.md"
     },
     {
       "basename": "条件逻辑与trade_when",
@@ -133,28 +117,12 @@
       "path": "量化知识库/CLAUDE.md"
     },
     {
-      "basename": "事件研究法",
-      "path": "量化知识库/02-Wiki/事件研究法.md"
+      "basename": "LLM文本标注",
+      "path": "量化知识库/02-Wiki/LLM文本标注.md"
     },
     {
-      "basename": "投资者关注度",
-      "path": "量化知识库/02-Wiki/投资者关注度.md"
-    },
-    {
-      "basename": "异象",
-      "path": "量化知识库/02-Wiki/异象.md"
-    },
-    {
-      "basename": "论文-A股投资者问答LLM事件研究",
-      "path": "量化知识库/02-Wiki/论文-A股投资者问答LLM事件研究.md"
-    },
-    {
-      "basename": "累计异常收益",
-      "path": "量化知识库/02-Wiki/累计异常收益.md"
-    },
-    {
-      "basename": "_index",
-      "path": "量化知识库/02-Wiki/_index.md"
+      "basename": "Pasted image 20260601153723",
+      "path": "Attachments/Pasted image 20260601153723.png"
     }
   ],
   "omittedPaths": [],
