@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "有效",
+                "query": "笛卡尔积",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 300
   },
   "right": {
     "id": "fc34a0c3800fbc85",
@@ -189,25 +189,24 @@
             }
           },
           {
-            "id": "ebbba1fabde83838",
+            "id": "5b6d7e920c4648a8",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
+    "width": 746.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -216,7 +215,8 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "0d89650bcf257229",
