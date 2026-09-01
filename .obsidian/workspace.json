@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
+                "file": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）"
+              "title": "Fama–French 五因子模型（Fama-French Five-Factor Model）"
             }
           }
         ]
@@ -218,8 +218,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0038bf18ffc30c5e",
+  "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/因子波动择时与风险配置.md",
     "量化知识库/01-Raw/01-因子投资/README.md",
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/因子估值择时与动态权重.md",
@@ -252,7 +253,6 @@
     "量化知识库/01-Raw/README.md",
     "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Brain平台算子全览.md",
     "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/技术分析与Alpha构建.md",
-    "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Alpha评估与平台设置.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料",
     "量化知识库/01-Raw/99-外部重复与待清理",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标",
