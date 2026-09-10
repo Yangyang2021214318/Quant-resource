@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "特质性波动率",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md"
+    },
+    {
+      "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
+      "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 三因子模型（Fama-French Three-Factor Model）.md"
+    },
+    {
       "basename": "Fama–French 五因子模型（Fama-French Five-Factor Model）",
       "path": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "因子投资",
       "path": "量化知识库/02-Wiki/因子投资.md"
-    },
-    {
-      "basename": "特质性波动率",
-      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md"
     },
     {
       "basename": "Day1",

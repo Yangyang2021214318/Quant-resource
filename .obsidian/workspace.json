@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
+                "file": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fama–French 五因子模型（Fama-French Five-Factor Model）"
+              "title": "特质性波动率"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "复权",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,6 +221,8 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
+    "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
     "量化知识库/02-Wiki/随机游走.md",
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/马科维茨均值-方差有效前沿（Markowitz Mean-Variance Efficient Frontier）.md",
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/因子波动择时与风险配置.md",
@@ -251,8 +254,6 @@
     "量化知识库/02-Wiki/技术分析.md",
     "量化知识库/01-Raw/00-Inbox/未命名-空白笔记.md",
     "量化知识库/01-Raw/00-Inbox",
-    "量化知识库/01-Raw/README.md",
-    "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Brain平台算子全览.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料",
     "量化知识库/01-Raw/99-外部重复与待清理",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标",
