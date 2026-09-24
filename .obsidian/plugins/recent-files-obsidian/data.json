@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "策略-CTA",
+      "path": "量化知识库/02-Wiki/策略-CTA.md"
+    },
+    {
+      "basename": "_index",
+      "path": "量化知识库/02-Wiki/_index.md"
+    },
+    {
       "basename": "动量因子",
       "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "股利贴现模型（Dividend Discount Model, DDM）",
       "path": "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md"
-    },
-    {
-      "basename": "_index",
-      "path": "量化知识库/02-Wiki/_index.md"
     },
     {
       "basename": "中性化",

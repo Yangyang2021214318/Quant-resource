@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md",
+                "file": "量化知识库/02-Wiki/策略-CTA.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动量因子"
+              "title": "策略-CTA"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "动量",
+                "query": "CTA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,6 +221,8 @@
   },
   "active": "0d89650bcf257229",
   "lastOpenFiles": [
+    "量化知识库/02-Wiki/_index.md",
+    "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md",
     "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 三因子模型（Fama-French Three-Factor Model）.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/Fama–French 五因子模型（Fama-French Five-Factor Model）.md",
@@ -232,7 +234,6 @@
     "量化知识库/01-Raw/01-因子投资/05-组合优化与数学工具/均值方差优化.md",
     "量化知识库/02-Wiki/多因子模型.md",
     "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md",
-    "量化知识库/02-Wiki/_index.md",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$板块轮动选股项目计划书.docx",
@@ -252,7 +253,6 @@
     "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/多重假设检验与贝叶斯p值.md",
     "量化知识库/01-Raw/01-因子投资/01-资产定价基础/系统性风险与特异性风险.md",
     "量化知识库/02-Wiki/技术分析.md",
-    "量化知识库/01-Raw/00-Inbox/未命名-空白笔记.md",
     "量化知识库/01-Raw/00-Inbox",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料",
     "量化知识库/01-Raw/99-外部重复与待清理",
