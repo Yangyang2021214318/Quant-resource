@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpha评估与平台设置",
+      "path": "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Alpha评估与平台设置.md"
+    },
+    {
+      "basename": "特质性波动率",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md"
+    },
+    {
       "basename": "策略-CTA",
       "path": "量化知识库/02-Wiki/策略-CTA.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "动量因子",
       "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md"
-    },
-    {
-      "basename": "特质性波动率",
-      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/特质性波动率.md"
     },
     {
       "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
