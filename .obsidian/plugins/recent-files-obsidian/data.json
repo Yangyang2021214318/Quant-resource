@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "-Join WorldQuant BRAIN",
-      "path": "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料/-Join WorldQuant BRAIN.md"
+      "basename": "债务股本比（Debt-to-Equity Ratio）",
+      "path": "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/债务股本比（Debt-to-Equity Ratio）.md"
+    },
+    {
+      "basename": "滑点（Slippage）",
+      "path": "量化知识库/01-Raw/02-量化策略/交易执行/滑点（Slippage）.md"
     },
     {
       "basename": "多因子模型",

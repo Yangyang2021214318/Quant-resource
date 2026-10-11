@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料/-Join WorldQuant BRAIN.md",
+                "file": "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/债务股本比（Debt-to-Equity Ratio）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Join WorldQuant BRAIN"
+              "title": "债务股本比（Debt-to-Equity Ratio）"
             }
           }
         ]
@@ -221,13 +221,14 @@
   },
   "active": "6bc802699a4764f9",
   "lastOpenFiles": [
-    "量化知识库/02-Wiki/投资者情绪指数.md",
-    "量化知识库/02-Wiki/主成分分析.md",
-    "量化知识库/01-Raw/README.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料/-Join WorldQuant BRAIN.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料/-Join WorldQuant BRAIN root.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料/-Join WorldQuant BRAIN 1.md",
     "量化知识库/01-Raw/99-外部重复与待清理/WorldQuant Brain重复资料",
+    "量化知识库/01-Raw/02-量化策略/交易执行/滑点（Slippage）.md",
+    "量化知识库/02-Wiki/投资者情绪指数.md",
+    "量化知识库/02-Wiki/主成分分析.md",
+    "量化知识库/01-Raw/README.md",
     "量化知识库/01-Raw/99-外部重复与待清理",
     "量化知识库/01-Raw/05-公司金融与估值/股利贴现模型/股利贴现模型（Dividend Discount Model, DDM）.md",
     "量化知识库/01-Raw/05-公司金融与估值/财务质量指标/债务股本比（Debt-to-Equity Ratio）.md",
@@ -249,14 +250,12 @@
     "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Alpha评估与平台设置.md",
     "量化知识库/01-Raw/03-量化平台与工具/WorldQuant Brain/Brain平台算子全览.md",
     "量化知识库/01-Raw/02-量化策略/技术分析指标/KDJ技术指标.md",
-    "量化知识库/01-Raw/02-量化策略/交易执行/滑点（Slippage）.md",
     "量化知识库/01-Raw/02-量化策略/主题轮动/LLM科技主题轮动策略.md",
     "量化知识库/01-Raw/02-量化策略/事件驱动/投资者情绪指数.md",
     "量化知识库/01-Raw/02-量化策略/事件驱动/市场情绪事件策略.md",
     "量化知识库/01-Raw/02-量化策略/CTA与趋势跟踪/CTA策略.md",
     "量化知识库/01-Raw/01-因子投资/README.md",
     "量化知识库/01-Raw/文章/因子投资/Day1.md",
-    "量化知识库/01-Raw/01-因子投资/06-数据处理与交易制度/异常值处理.md",
     "Attachments/Pasted image 20260718123004.png",
     "Attachments/Pasted image 20260718121914.png",
     "Attachments/Pasted image 20260713170718.png",
