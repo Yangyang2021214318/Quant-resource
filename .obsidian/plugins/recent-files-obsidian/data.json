@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "动量因子",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md"
+    },
+    {
+      "basename": "换手率因子",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/换手率因子.md"
+    },
+    {
+      "basename": "规模因子",
+      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/规模因子.md"
+    },
+    {
       "basename": "长期方差",
       "path": "量化知识库/01-Raw/01-因子投资/03-模型检验与统计推断/长期方差.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "_index",
       "path": "量化知识库/02-Wiki/_index.md"
-    },
-    {
-      "basename": "动量因子",
-      "path": "量化知识库/01-Raw/01-因子投资/02-因子类型与基本面信号/动量因子.md"
     },
     {
       "basename": "Fama–French 三因子模型（Fama-French Three-Factor Model）",
