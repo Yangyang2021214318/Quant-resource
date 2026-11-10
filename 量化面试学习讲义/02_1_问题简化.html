@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2.1 问题简化</title><style>
+body{margin:0;background:#f4f7fb;color:#172033;font-family:system-ui,-apple-system,"Microsoft YaHei",sans-serif;line-height:1.75}.page{max-width:900px;margin:32px auto;background:white;padding:42px 56px;box-shadow:0 8px 30px #17203318;border-radius:16px}h1{font-size:32px;margin:0}h2{margin-top:42px;border-bottom:2px solid #dbe3ef;padding-bottom:8px;color:#1d4ed8}h3{margin-top:28px;color:#334155}.en{background:#f8fafc;border-left:4px solid #64748b;padding:12px 16px}.cn{background:#eff6ff;border-left:4px solid #2563eb;padding:12px 16px}.key{background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:14px 18px}.answer{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:14px 18px}pre{background:#0f172a;color:#e2e8f0;padding:16px;border-radius:10px;overflow:auto}code{background:#eef2f7;padding:2px 5px;border-radius:4px}.small{color:#64748b;font-size:13px}table{width:100%;border-collapse:collapse}td,th{border:1px solid #dbe3ef;padding:8px;text-align:left}th{background:#eff6ff}@media(max-width:700px){.page{margin:0;border-radius:0;padding:26px 20px}}
+</style></head><body><main class="page">
+<p class="small">Chapter 2 · Brain Teasers / Section 2.1 · Problem Simplification</p><h1>2.1 问题简化：从小规模案例发现规律</h1>
+<div class="en"><b>English idea</b><br>When the original problem is too complex, begin with a simplified version. Solve the smallest cases, look for a pattern, and gradually increase the complexity.</div>
+<div class="cn"><b>中文理解</b><br>当原问题过于复杂、无法立即求解时，先把规模降下来。先解决最小案例，再逐步增加参与者或状态数量，观察规律是否稳定出现。</div>
+<div class="key"><b>核心方法</b><br>复杂问题 → 最小规模 → 递推观察 → 识别不变量 → 推广到一般规模 → 检查边界条件</div>
+
+<h2>题型一：Screw Pirates · 海盗分金币</h2><h3>题目概述</h3><p>若干名海盗按资历依次提出金币分配方案。方案需要获得至少一半票数，否则提案者会被淘汰，流程交给下一名海盗。所有海盗都足够理性，优先保证自己存活，其次希望获得更多金币；若收益相同，还倾向于让更少的人分到金币。</p><p class="small">这里保留题型和条件的学习摘要，不复刻原题全文。</p>
+<h3>第一步：从 1 名海盗开始</h3><p>只有一名海盗时，不存在投票冲突，他可以拿走全部金币。这个案例提供递推的起点。</p>
+<h3>第二步：逐步增加人数</h3><table><tr><th>人数</th><th>关键结果</th><th>推理重点</th></tr><tr><td>1</td><td>提案者保留全部</td><td>无需他人支持</td></tr><tr><td>2</td><td>提案者只需买下一票</td><td>分析失败后下一轮谁会得到什么</td></tr><tr><td>3</td><td>向上一轮会被淘汰、收益最低的人购买支持</td><td>用最少金币获得必要票数</td></tr><tr><td>5</td><td>继续逆向推理，提案者购买关键票</td><td>票数约束与生存优先级共同决定方案</td></tr></table>
+<h3>通用解题框架</h3><ol><li>从最小规模开始列出结果。</li><li>假设人数为 (n-1) 时的方案已知。</li><li>分析当前提案失败后，每个投票者在下一轮的收益。</li><li>提案者只给“下一轮收益最低”的必要支持者略高于其保留收益。</li><li>剩余金币全部留给自己。</li></ol>
+<div class="answer"><b>面试中要说清楚的关键点：</b><br>这不是简单平均分配，而是一个逆向归纳问题。支持票的价格由“如果当前提案失败，我下一轮能得到什么”决定；因此必须先求下一轮结果，再回到当前轮。</div>
+<h3>数学抽象</h3><p>设当前有 (n) 人，提案者需要 (q) 票支持（是否包含自己要根据题目规则确认）。对每个其他海盗 (i)，计算其在失败后的收益 (v_i)。若当前给他 (v_i+1) 枚金币即可获得支持，则选择这些成本最低的海盗，直到达到票数要求。</p><pre># 伪代码：逆向归纳的抽象结构
+def proposal(pirates, coins):
+    # pirates 中记录每个人在下一轮的预期收益
+    # 选择成本 lowest_next_payoff + 1 的必要支持者
+    # 剩余金币归提案者
+    pass</pre>
+<h3>常见错误</h3><ul><li>没有先算“提案失败后”的下一轮分配。</li><li>忘记确认“至少一半”是严格多数还是过半数。</li><li>默认所有人只追求金币，忽略题目给出的生存优先级。</li><li>直接猜最终分配，没有列出小规模案例。</li></ul>
+
+<h2>题型二：Tiger and Sheep · 老虎与羊</h2><h3>题目概述</h3><p>岛上有若干只老虎和一只羊。老虎可以吃草，但更愿意吃羊；每次只有一只老虎能吃羊，而且吃羊的老虎会变成羊。所有老虎都理性并希望生存。问题是：羊最终是否会被吃掉？</p>
+<h3>关键简化</h3><p>不要直接分析很大的老虎数量。先比较 (n=1,2,3,4) 等小规模情形，观察“吃羊后剩下多少只老虎”是否改变下一步的激励。</p><table><tr><th>老虎数量</th><th>吃羊后的结构</th><th>激励判断</th></tr><tr><td>1</td><td>老虎变成羊，没有其他老虎</td><td>会吃</td></tr><tr><td>2</td><td>吃羊者变羊，另一只老虎可以吃它</td><td>不会吃</td></tr><tr><td>3</td><td>吃羊后形成 2 只老虎与 1 只羊的结构</td><td>会吃</td></tr><tr><td>4</td><td>吃羊后形成 3 只老虎与 1 只羊的结构</td><td>不会吃</td></tr></table>
+<h3>规律与证明</h3><p>设 (S(n)) 表示有 (n) 只老虎时羊是否会被吃。若某只老虎吃羊，它会变成羊；剩余 (n-1) 只老虎会面对一个类似问题。因此，当前老虎比较的是：</p><ul><li>不吃：自己继续作为老虎生存；</li><li>吃：自己变成羊，并将面对剩余老虎对新羊的行为。</li></ul><p>小规模结果呈现交替结构：奇偶性改变了吃羊后的后续局面。面试时应说明这是由递推关系产生的，而不是凭直觉猜奇偶。</p>
+<div class="answer"><b>解题重点：</b><br>把“动物故事”转成状态 (S(n))，再比较行动后的状态。每次行动都会把问题规模从 (n) 降到 (n-1)，因此可以用数学归纳法或逆向递推分析。</div>
+<h3>Python 验证递推结构</h3><pre>def sheep_eaten(n):
+    """教学用递推：1 只时会吃，之后交替变化。"""
+    if n == 1:
+        return True
+    return not sheep_eaten(n - 1)
+
+for n in range(1, 11):
+    print(n, sheep_eaten(n))</pre>
+<h3>本节术语表</h3><table><tr><th>English</th><th>中文</th><th>含义</th></tr><tr><td>problem simplification</td><td>问题简化</td><td>先解决更小、更容易的版本</td></tr><tr><td>backward induction</td><td>逆向归纳</td><td>从后续状态的结果推回当前决策</td></tr><tr><td>rational agent</td><td>理性参与者</td><td>按题目给定偏好选择行动</td></tr><tr><td>invariant</td><td>不变量</td><td>过程变化中保持不变的性质</td></tr></table>
+<h2>练习建议</h2><ol><li>自行列出 1 到 7 名海盗的结果表，明确每一步需要多少支持票。</li><li>改变海盗的投票规则，观察结果如何变化。</li><li>对老虎问题分别从 1 到 10 只建立状态表。</li><li>用一句话解释为什么“大规模问题先看小规模”在量化面试中很有用。</li></ol>
+</main></body></html>
